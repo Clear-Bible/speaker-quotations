@@ -20,7 +20,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ### Under the following terms:
 
- * **Attribution** — You must attribute the work as follows: "MACULA Quotation and Speaker Data, available at https://github.com/Clear-Bible/speaker-quotations/". You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+ * **Attribution** — You must attribute the work as follows: "MACULA Quotation and Speaker Data,  © 2023 by Clear Bible, Inc, available at https://github.com/Clear-Bible/speaker-quotations/". You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
