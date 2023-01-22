@@ -1,12 +1,8 @@
-# MACULA Greek Linguistic Datasets
+# MACULA Quotation and Speaker Data
 
-[MACULA Greek Linguistic Datasets](http://github.com/Clear-Bible/macula-hebrew/) © 2022 by [Clear Bible, Inc](http://www.clear.bible) is licensed under [CC BY 4.0 ](http://creativecommons.org/licenses/by/4.0/).
+[MACULA Quotation and Speaker Data](http://github.com/Clear-Bible/speaker-quotations/) © 2023 by [Clear Bible, Inc](http://www.clear.bible) is licensed under [CC BY 4.0 ](http://creativecommons.org/licenses/by/4.0/).
 
-In addition to datasets from Clear, MACULA contains data from the following datasets:
-
-1. [Nestle1904](https://github.com/biblicalhumanities/Nestle1904) Greek New Testament, edited by Eberhard Nestle, published in 1904 by the British and Foreign Bible Society. Transcription by Diego Santos, morphology by Ulrik Sandborg-Petersen, markup by Jonathan Robie.
-2. Word sense data from the United Bible Societies [MARBLE](https://semanticdictionary.org/) project.
-
+In addition to datasets from Clear, MACULA contains data from [Glyssen](https://github.com/sillsdev/Glyssen/blob/master/GlyssenCharacters/Resources/CharacterDetail.txt), Copyright (c) 2014-2020 SIL LSDev and Faith Comes By Hearing, which is [licensed](https://github.com/sillsdev/Glyssen/blob/master/LICENSE) under The MIT License.
 
 # License
 
