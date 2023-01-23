@@ -14,7 +14,7 @@ Each _Quotation_ (see **Quotation Data** below) declares a speaker of the quotat
 This information is a reproduction of [FCBH Character Detail](https://github.com/sillsdev/Glyssen/blob/master/GlyssenCharacters/Resources/CharacterDetail.txt) information with extra fields added for SDBH and LN, where appropriate. This information includes:
 
 * **CharacterId** — The identifier of the speaker; this is consistent across OT and NT. This aligns with "SPEAKER" in TSV or JSON that assigns a speaker to a quotation.
-* **MaxSpeakers** — The maximum number of speakers that speak when this speaker is activated.
+* **MaxSpeakers** — The maximum number of speakers that speak when this speaker is activated. A value of `-1` appears to indicate a group of unknown size.
 * **Gender** — The gender of the speaker. This primarily indicates whether FCBH intends a male or female voice for the named speaker.
 * **Age** — These are ranges, like "child" or "adult". These primarily indicate whether FCBH intends a child, an adult, or possibly an older adult to voice the speaker.
 * **Divinity** — This field denotes divinity. Items with `Y` as value are divine. Otherwise the field is empty.
