@@ -29,4 +29,6 @@ The MACULA trees have all sorts of goodness on them, for purposes of this projec
 
 Note the clauses with `projected="yes"` attributes.
 
-**Update**: I'm using data from a revision of OpenText (2.0?) that expands upon the projection information in v1.0.
+* **Context Annotation**: https://github.com/OpenText-org/context-annotation/releases/tag/v1.0.0
+
+OpenText 2.0 context annotation data that expands upon the projection information in v1.0. Projected discourse is indicated where a discourse turn with moves contains a discourse turn with moves. Each new level of `<c unit="turn">` indicated another level of depth. 
