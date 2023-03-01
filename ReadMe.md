@@ -140,11 +140,11 @@ This JSON provides character level data from both of these files merged together
 | StartVerse | string | USFM start verse of range |
 | EndVerse | string | USFM end verse of range |
 | Verses | List of strings | List of verses in range, in order |
-| CharacterIds | List of strings | List of CharacterIds; first is default |
+| CharacterIds | List of strings | List of FCBH CharacterIds; first is default |
 | Delivery | string | delivery from FCBH data |
 | Alias | string | alias from FCBH data |
 | QuoteType | string | quote type from FCBH data |
-| DefaultCharacterId | string | Default / preferred character Id |
+| DefaultCharacterId | string | Default / preferred FCBH character Id |
 | ParallelPassage | string | not exhaustive or reliable but sometimes useful. From FCBH data |
 | Alternates | List of SpeakerInstance | Some areas are ambiguous and the speaker is not certain so alternates are included |
 
@@ -154,6 +154,8 @@ This JSON provides character level data from both of these files merged together
 |----------|------|-------------|
 | StartWord | string | identifier for word in Hebrew or Greek MACULA |
 | EndWord | string | identifier for word in Hebrew or Greek MACULA |
+| ClearSubjectReferents | List of strings | identifiers for word(s) in Hebrew or Greek MACULA that resolve either implicitly or explicitly stated potential speakers |
+| ClearSubjectReferentLabels | List of strings | glosses or labels in English for word(s) in Hebrew or Greek MACULA that resolve either implicitly or explicitly stated potential speakers |
 | Words | List of `ProjectionWord` | Specific lists of words in order |
 | Depth | integer | Depth of quotation. Initial text level is `1`; incremented for subsequent levels of quotation. |
 | StartVerse | string | USFM start verse of projection |
@@ -188,8 +190,10 @@ Tab-delimited files generated from `SpeakerProjections-[translation].json`. Rath
 * KEY
 * START VS
 * END VS
-* SPEAKER
-* ALT SPEAKER
+* SPEAKER (FCBH)
+* ALT SPEAKER (FCBH)
+* SPEAKER REFERENT (CLEAR)
+* SPEAKER REFERENT LABEL (CLEAR) 
 * QUOTE TYPE
 * QUOTE DELIVERY
 * PROJECTION START
@@ -200,15 +204,15 @@ Tab-delimited files generated from `SpeakerProjections-[translation].json`. Rath
 Note that the `KEY` may be duplicated if a range assignment consists of multiple projections but one speaker. Below is an example of this (GEN 18:13) as well as inclusion of alternate speaker information (GEN 18:9).
 
 ````
-GEN 18:3|GEN 18:5|Abraham (Abram)	GEN 18:3	GEN 18:5	Abraham (Abram)		Normal		GEN 18:3!2-1	GEN 18:5!13-2	o010180030021	o010180050132
-GEN 18:3|GEN 18:5|Abraham (Abram)	GEN 18:3	GEN 18:5	Abraham (Abram)		Normal		GEN 18:5!15-1	GEN 18:5!18-1	o010180050151	o010180050181
-GEN 18:6|GEN 18:6|Abraham (Abram)	GEN 18:6	GEN 18:6	Abraham (Abram)		Normal		GEN 18:6!7-1	GEN 18:6!14-1	o010180060071	o010180060141
-GEN 18:9|GEN 18:9|Abraham (Abram)	GEN 18:9	GEN 18:9	Abraham (Abram)		Normal		GEN 18:9!3-1	GEN 18:9!5-2	o010180090031	o010180090052
-GEN 18:9|GEN 18:10|angels at Sodom, two	GEN 18:9	GEN 18:10	angels at Sodom, two	God	Normal		GEN 18:9!7-1	GEN 18:9!8-3	o010180090071	o010180090083
-GEN 18:9|GEN 18:10|angels at Sodom, two	GEN 18:9	GEN 18:10	angels at Sodom, two	God	Normal		GEN 18:10!2-1	GEN 18:10!10-2	o010180100021	o010180100102
-GEN 18:12|GEN 18:12|Sarah (Sarai) (old)	GEN 18:12	GEN 18:12	Sarah (Sarai) (old)		Normal		GEN 18:12!5-1	GEN 18:12!11-1	o010180120051	o010180120111
-GEN 18:13|GEN 18:15|God	GEN 18:13	GEN 18:15	God		Normal		GEN 18:13!5-1	GEN 18:14!10-1	o010180130051	o010180140101
-GEN 18:13|GEN 18:15|God	GEN 18:13	GEN 18:15	God		Normal		GEN 18:15!4-1	GEN 18:15!5-1	o010180150041	o010180150051
-GEN 18:13|GEN 18:15|God	GEN 18:13	GEN 18:15	God		Normal		GEN 18:15!9-1	GEN 18:15!11-1	o010180150091	o010180150111
+GEN 18:3|GEN 18:5|Abraham (Abram)	GEN 18:3	GEN 18:5	Abraham (Abram)		o010170260051	Abraham	Normal		GEN 18:3	GEN 18:3	o010180030021	o010180050132
+GEN 18:3|GEN 18:5|Abraham (Abram)	GEN 18:3	GEN 18:5	Abraham (Abram)		o010180020061	men	Normal		GEN 18:5	GEN 18:5	o010180050151	o010180050181
+GEN 18:6|GEN 18:6|Abraham (Abram)	GEN 18:6	GEN 18:6	Abraham (Abram)		o010180060021	Abraham	Normal		GEN 18:6	GEN 18:6	o010180060071	o010180060141
+GEN 18:9|GEN 18:9|Abraham (Abram)	GEN 18:9	GEN 18:9	Abraham (Abram)		o010180020061	men	Normal		GEN 18:9	GEN 18:9	o010180090031	o010180090052
+GEN 18:9|GEN 18:10|angels at Sodom, two	GEN 18:9	GEN 18:10	angels at Sodom, two	God	o010180070041	Abraham	Normal		GEN 18:9	GEN 18:9	o010180090071	o010180090083
+GEN 18:9|GEN 18:10|angels at Sodom, two	GEN 18:9	GEN 18:10	angels at Sodom, two	God	o010180010031	Yahweh	Normal		GEN 18:10	GEN 18:10	o010180100021	o010180100102
+GEN 18:12|GEN 18:12|Sarah (Sarai) (old)	GEN 18:12	GEN 18:12	Sarah (Sarai) (old)		o010180120021	Sarah	Normal		GEN 18:12	GEN 18:12	o010180120051	o010180120111
+GEN 18:13|GEN 18:15|God	GEN 18:13	GEN 18:15	God		o010180130021	Yahweh	Normal		GEN 18:13	GEN 18:13	o010180130051	o010180140101
+GEN 18:13|GEN 18:15|God	GEN 18:13	GEN 18:15	God		o010180150021	Sarah	Normal		GEN 18:15	GEN 18:15	o010180150041	o010180150051
+GEN 18:13|GEN 18:15|God	GEN 18:13	GEN 18:15	God		o010180130021	Yahweh	Normal		GEN 18:15	GEN 18:15	o010180150091	o010180150111
 
 
