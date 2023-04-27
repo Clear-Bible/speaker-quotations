@@ -4,19 +4,19 @@
     "MaxSpeakers": 2,
     "Gender": "Male",
     "Age": "Adult",
-    "Comment": "Not Peter (Simon), Thomas, Nathaniel, James, or John",
+    "Comment": "Not Peter (Simon), Thomas, Nathaniel, James, or John"
   },
   {
     "CharacterId": "250 Israelite leaders",
     "MaxSpeakers": 250,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "a Jew",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Aaron",
@@ -35,7 +35,7 @@
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "Adult",
-    "Comment": "original Hebrew name: Azariah",
+    "Comment": "original Hebrew name: Azariah"
   },
   {
     "CharacterId": "Abigail",
@@ -45,7 +45,7 @@
     "SDBH": [
       "000025001001000",
       "000025001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Abijah, king of Judah",
@@ -75,7 +75,7 @@
       "000039001001000",
       "000039001003000",
       "000039001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Abimelech 2, king of the Philistines (in Gerar)",
@@ -87,7 +87,7 @@
       "000039001001000",
       "000039001003000",
       "000039001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Abimelech, son of Gideon (Jerubbaal)",
@@ -99,7 +99,7 @@
       "000039001001000",
       "000039001003000",
       "000039001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Abiram",
@@ -109,7 +109,7 @@
     "Comment": "son of Eliab (Reubenite)",
     "SDBH": [
       "000047001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Abishai, Joab\u0027s brother",
@@ -119,7 +119,7 @@
     "SDBH": [
       "000051001001000",
       "000087001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Abner, commander of Saul\u0027s army",
@@ -128,7 +128,7 @@
     "Age": "Adult",
     "SDBH": [
       "000073001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Abraham (Abram)",
@@ -148,20 +148,20 @@
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Servant of Abraham",
+    "FCBHCharacter": "Servant of Abraham"
   },
   {
     "CharacterId": "Absalom\u0027s men",
     "MaxSpeakers": -1,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Servant of Absalom",
+    "FCBHCharacter": "Servant of Absalom"
   },
   {
     "CharacterId": "Absalom\u0027s secret messengers",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Absalom, son of David",
@@ -172,7 +172,7 @@
     "SDBH": [
       "000088001001000",
       "000088001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Achan",
@@ -181,7 +181,7 @@
     "Age": "Adult",
     "SDBH": [
       "005427001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Achish, king of Gath",
@@ -190,7 +190,7 @@
     "Age": "Adult",
     "SDBH": [
       "000372001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Achsah, Caleb\u0027s daughter",
@@ -200,7 +200,7 @@
     "FCBHCharacter": "Acsah (female)",
     "SDBH": [
       "005430001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Adam",
@@ -218,13 +218,13 @@
     "CharacterId": "Adoni-Bezek",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Adoni-Zedek, king of Jerusalem",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Adonijah, son of David",
@@ -235,14 +235,14 @@
       "000139001001000",
       "000140001001000",
       "000139001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "advisers to king",
     "MaxSpeakers": -1,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Chaldean",
+    "FCBHCharacter": "Chaldean"
   },
   {
     "CharacterId": "Agabus the prophet",
@@ -260,7 +260,7 @@
     "Age": "Adult",
     "SDBH": [
       "000091001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Agur",
@@ -269,7 +269,7 @@
     "Age": "Adult",
     "SDBH": [
       "000095001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Ahab, king of Israel",
@@ -279,7 +279,7 @@
     "SDBH": [
       "000240001001000",
       "000240001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Ahaz, king of Judah",
@@ -301,7 +301,7 @@
     "SDBH": [
       "000258001001000",
       "000258001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Ahijah the priest",
@@ -314,7 +314,7 @@
       "000265001004000",
       "000265001005000",
       "000265001007000"
-    ],
+    ]
   },
   {
     "CharacterId": "Ahijah the prophet",
@@ -326,7 +326,7 @@
       "000265001004000",
       "000265001005000",
       "000265001007000"
-    ],
+    ]
   },
   {
     "CharacterId": "Ahimaaz (messenger)",
@@ -337,7 +337,7 @@
       "000274001001000",
       "000274001002000",
       "000274001003000"
-    ],
+    ]
   },
   {
     "CharacterId": "Ahimelech the priest (son of Ahitub)",
@@ -348,7 +348,7 @@
     "SDBH": [
       "000272001001000",
       "000272001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Ahithophel",
@@ -358,51 +358,51 @@
     "SDBH": [
       "000286001001000",
       "000286001001000 001439001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "all in Nazareth synagogue",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "all in temple",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "all seeking God",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "all the earth",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "all the elders",
     "MaxSpeakers": -1,
     "Gender": "Male",
     "Age": "Elder",
-    "Comment": "elders of the church in Jerusalem",
+    "Comment": "elders of the church in Jerusalem"
   },
   {
     "CharacterId": "all who heard (in synagogues)",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "altar",
     "MaxSpeakers": 1,
     "Gender": "PreferMale",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Amalekite (young man from Saul\u0027s camp)",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "YoungAdult",
-    "FCBHCharacter": "Amalekite",
+    "FCBHCharacter": "Amalekite"
   },
   {
     "CharacterId": "Amasa",
@@ -412,7 +412,7 @@
     "Comment": "leader in Ephraim",
     "SDBH": [
       "005526001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Amasai, chief of thirty",
@@ -423,7 +423,7 @@
       "005527001001000",
       "005527001003000",
       "005527001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Amaziah, king of Judah",
@@ -435,7 +435,7 @@
       "000511001002000",
       "000511001003000",
       "000511001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "Amaziah, priest of Bethel",
@@ -448,34 +448,34 @@
       "000511001002000",
       "000511001003000",
       "000511001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "ambassador",
     "MaxSpeakers": -1,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Envoy",
+    "FCBHCharacter": "Envoy"
   },
   {
     "CharacterId": "ambassador sent by sea",
     "MaxSpeakers": -1,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Ambassador",
+    "FCBHCharacter": "Ambassador"
   },
   {
     "CharacterId": "Ammonite nobles",
     "MaxSpeakers": -1,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Noble",
+    "FCBHCharacter": "Noble"
   },
   {
     "CharacterId": "Ammonites",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Amnon, son of David",
@@ -485,7 +485,7 @@
     "SDBH": [
       "000503001001000",
       "000503001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Amos",
@@ -546,105 +546,105 @@
     "CharacterId": "angel",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "angel (one of the seven)",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "angel flying directly overhead",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "angel flying directly overhead, second",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "angel flying directly overhead, third",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "angel or messenger (Greek variant: someone speaking to John)",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "angel over waters",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "angel standing in sun",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "angel standing on sea and land",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "angel who talked with Zechariah",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "angel who wrestled with Jacob",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "angel, another, coming down from heaven",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "angel, coming out of temple",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "angel, coming out of temple, another",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "angel, powerful",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "angelic riders or horses (in vision)",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "angels at Sodom, two",
     "MaxSpeakers": 2,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "angels in white, two",
     "MaxSpeakers": 2,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "angels, all the",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "angels, many",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Anna, prophetess",
@@ -660,27 +660,27 @@
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "Adult",
-    "Comment": "Became disciple of Jesus (not Andrew, Simon Peter, Philip, Nathanael, or Matthew)",
+    "Comment": "Became disciple of Jesus (not Andrew, Simon Peter, Philip, Nathanael, or Matthew)"
   },
   {
     "CharacterId": "another holy one (in vision)",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "answer from Israel",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "anyone",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "anyone with complaint for king",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Apollos",
@@ -694,14 +694,14 @@
   {
     "CharacterId": "apostles, elders, and whole church at Jerusalem",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Aramean soldiers",
     "MaxSpeakers": -1,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Syrians",
+    "FCBHCharacter": "Syrians"
   },
   {
     "CharacterId": "Araunah, the Jebusite",
@@ -710,7 +710,7 @@
     "Age": "Adult",
     "SDBH": [
       "000670001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Arioch",
@@ -720,25 +720,25 @@
     "SDBH": [
       "000683001001000",
       "000683001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "army cry",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "army officer, one of",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "army officers",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Aroer, inhabitant of",
@@ -747,13 +747,13 @@
     "Age": "Adult",
     "SDBH": [
       "005663001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "arrogant men",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Artaxerxes, king of Persia",
@@ -762,7 +762,7 @@
     "Age": "Adult",
     "SDBH": [
       "000722001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Asa, king of Judah",
@@ -785,7 +785,7 @@
     "SDBH": [
       "005698001001000",
       "005698001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "Asaph",
@@ -797,7 +797,7 @@
       "000570001001000",
       "000570001003000",
       "000570001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "Asher",
@@ -815,14 +815,14 @@
   {
     "CharacterId": "assembly, whole",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "astrologers",
     "MaxSpeakers": -1,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Chaldean",
+    "FCBHCharacter": "Chaldean"
   },
   {
     "CharacterId": "Athaliah, mother of Ahaziah (Queen)",
@@ -832,25 +832,25 @@
     "SDBH": [
       "005752001001000",
       "005752001003000"
-    ],
+    ]
   },
   {
     "CharacterId": "attendents of Phineas\u0027 wife",
     "MaxSpeakers": -1,
     "Gender": "Female",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "authorities, governing",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "authorities, Philippi",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Azariah the chief priest (during reign of Hezekiah)",
@@ -874,7 +874,7 @@
       "005357001018000",
       "005357001019000",
       "005357001020000"
-    ],
+    ]
   },
   {
     "CharacterId": "Azariah the priest (during reign of Uzziah)",
@@ -897,7 +897,7 @@
       "005357001018000",
       "005357001019000",
       "005357001020000"
-    ],
+    ]
   },
   {
     "CharacterId": "Azariah, son of Hoshaiah",
@@ -919,7 +919,7 @@
       "005357001018000",
       "005357001019000",
       "005357001020000"
-    ],
+    ]
   },
   {
     "CharacterId": "Azariah, son of Jehohanan",
@@ -943,7 +943,7 @@
       "005357001018000",
       "005357001019000",
       "005357001020000"
-    ],
+    ]
   },
   {
     "CharacterId": "Azariah, son of Oded",
@@ -966,7 +966,7 @@
       "005357001018000",
       "005357001019000",
       "005357001020000"
-    ],
+    ]
   },
   {
     "CharacterId": "Baanah",
@@ -977,7 +977,7 @@
       "001105001002000",
       "001105001003000",
       "001105001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "Babylon (personified as adulteress)",
@@ -1056,7 +1056,7 @@
       "001165001002000",
       "001165001003000",
       "001165001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "Barzillai",
@@ -1068,7 +1068,7 @@
       "001172001001000",
       "001172001003000",
       "001172001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Barzillai (old)",
@@ -1080,53 +1080,53 @@
       "001172001001000",
       "001172001003000",
       "001172001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Bathsheba",
     "MaxSpeakers": 1,
     "Gender": "Female",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "beam",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "beast from out of the earth",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "believers who came with Peter",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "believers who were Pharisees",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "believers, circumcised (in Jerusalem)",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "believers, one hundred twenty",
     "MaxSpeakers": 120,
     "Gender": "PreferMale",
     "Age": "Adult",
-    "Comment": "Probably spoken by Peter or one of the other eleven disciples",
+    "Comment": "Probably spoken by Peter or one of the other eleven disciples"
   },
   {
     "CharacterId": "beloved",
     "MaxSpeakers": 1,
     "Gender": "Female",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Belshazzar, king of Babylon",
@@ -1136,14 +1136,14 @@
     "SDBH": [
       "001033001001000",
       "001005001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Ben-Hadad, king of Aram",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Comment": "Ben-Hadad II (aka, Hadadezer or Adad-Idri); Aram = Syria",
-    "FCBHCharacter": "Ben Hadad",
+    "FCBHCharacter": "Ben Hadad"
   },
   {
     "CharacterId": "Benaiah, son of Jehoiada",
@@ -1161,7 +1161,7 @@
       "001059001008000",
       "001061001006000",
       "001059001009000"
-    ],
+    ]
   },
   {
     "CharacterId": "Benjamin",
@@ -1178,11 +1178,11 @@
   {
     "CharacterId": "Benjamite messenger to Eli",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Benjamites",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Bera, king of Sodom",
@@ -1191,7 +1191,7 @@
     "FCBHCharacter": "King of Sodom",
     "SDBH": [
       "001197001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Berekiah",
@@ -1223,7 +1223,7 @@
     "Gender": "Male",
     "SDBH": [
       "000931001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "Beth Shemesh, messenger from",
@@ -1231,12 +1231,12 @@
     "Gender": "PreferMale",
     "SDBH": [
       "000931001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "Beth-ezel",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Bethlehem, elders of",
@@ -1255,7 +1255,7 @@
     "Age": "Adult",
     "SDBH": [
       "001226001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Bildad the Shuhite",
@@ -1263,7 +1263,7 @@
     "Gender": "Male",
     "SDBH": [
       "001009001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Birsha, king of Gomorrah",
@@ -1271,20 +1271,20 @@
     "Gender": "Male",
     "SDBH": [
       "001204001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "blind man",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "blind men, two",
     "MaxSpeakers": 2,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Man (Blind)",
+    "FCBHCharacter": "Man (Blind)"
   },
   {
     "CharacterId": "Boaz",
@@ -1304,90 +1304,90 @@
     "CharacterId": "Book of the Wars of Yahweh",
     "MaxSpeakers": 1,
     "Gender": "PreferMale",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "boys",
     "MaxSpeakers": -1,
     "Gender": "Male",
     "Age": "Child",
-    "FCBHCharacter": "Youth",
+    "FCBHCharacter": "Youth"
   },
   {
     "CharacterId": "bride, the (referring to the Church)",
     "MaxSpeakers": -1,
     "Gender": "PreferFemale",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "brother-in-law of widow",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "brothers at Antioch",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "brothers at Ephesus",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "brothers at Lystra and Iconium",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "brothers at Puteoli",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "brothers at Rome",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "brothers at Thessalonica",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "brothers of beloved",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "brothers who hate you",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "buyer",
     "MaxSpeakers": 1,
     "Gender": "Either",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "bystanders at Calvary, some",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "bystanders at Calvary, the rest",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Caesar Augustus",
@@ -1430,170 +1430,170 @@
       "003309001001000",
       "003309001003000",
       "003309001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Canaanite (Syrophoenician) mother of possessed girl",
     "MaxSpeakers": 1,
     "Gender": "Female",
     "Age": "Adult",
-    "FCBHCharacter": "Woman (Foreigner)",
+    "FCBHCharacter": "Woman (Foreigner)"
   },
   {
     "CharacterId": "Canaanites",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "captain of ship to Italy (Rome)",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "captain of ship to Tarshish",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Captain",
+    "FCBHCharacter": "Captain"
   },
   {
     "CharacterId": "captain of the temple guard",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "captain, first",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "captain, second",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "captain, third",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "captors, our",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "centurion at crucifixion",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "centurion at Paul\u0027s flogging",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Centurion",
+    "FCBHCharacter": "Centurion"
   },
   {
     "CharacterId": "centurion in the barracks",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "centurion on ship with Paul",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "centurion summoned by Pilate",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Officer",
+    "FCBHCharacter": "Officer"
   },
   {
     "CharacterId": "centurion with great faith",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "chariot commanders of Aram",
     "MaxSpeakers": -1,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Commander",
+    "FCBHCharacter": "Commander"
   },
   {
     "CharacterId": "chief baker of Egypt",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Chief Baker",
+    "FCBHCharacter": "Chief Baker"
   },
   {
     "CharacterId": "chief cupbearer of Egypt",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Cupbearer",
+    "FCBHCharacter": "Cupbearer"
   },
   {
     "CharacterId": "chief official",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Official",
+    "FCBHCharacter": "Official"
   },
   {
     "CharacterId": "chief priests",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "chiefs of 10 tribes",
     "MaxSpeakers": 10,
     "Gender": "Male",
-    "Comment": "not Reuben, Gad, half tribe of Manasseh",
+    "Comment": "not Reuben, Gad, half tribe of Manasseh"
   },
   {
     "CharacterId": "children",
     "MaxSpeakers": -1,
-    "Age": "Child",
+    "Age": "Child"
   },
   {
     "CharacterId": "children of excellent wife",
     "MaxSpeakers": -1,
-    "Age": "Child",
+    "Age": "Child"
   },
   {
     "CharacterId": "children of God",
     "MaxSpeakers": -1,
     "Gender": "Either",
     "Age": "Child",
-    "Comment": "could be spoken by any age actor, but a child\u0027s voice might provide best dramatic effect",
+    "Comment": "could be spoken by any age actor, but a child\u0027s voice might provide best dramatic effect"
   },
   {
     "CharacterId": "children of Zion (Jerusalem)",
     "MaxSpeakers": -1,
-    "Age": "Child",
+    "Age": "Child"
   },
   {
     "CharacterId": "citizens of Shechem",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "city clerk of Ephesus",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Claudius",
@@ -1618,60 +1618,60 @@
     "CharacterId": "Cleopas\u0027 companion (on road to Emmaus)",
     "MaxSpeakers": 1,
     "Gender": "Either",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "collectors of temple tax",
     "MaxSpeakers": -1,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Tax Collector",
+    "FCBHCharacter": "Tax Collector"
   },
   {
     "CharacterId": "commander of Roman troops in Jerusalem",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "commander of Yahweh\u0027s army",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Angel",
+    "FCBHCharacter": "Angel"
   },
   {
     "CharacterId": "company of the prophets",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "company of the prophets (Bethel)",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "company of the prophets (Jericho)",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "company of the prophets, one of (young man)",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "YoungAdult",
-    "FCBHCharacter": "Prophet (young)",
+    "FCBHCharacter": "Prophet (young)"
   },
   {
     "CharacterId": "conquerors of beast, image \u0026 his name",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "conquerors of Lo Debar",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Cornelius",
@@ -1686,140 +1686,140 @@
     "CharacterId": "council of elders",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Elder",
+    "Age": "Elder"
   },
   {
     "CharacterId": "craftsman",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "craftsmen and workmen",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Cretan prophet",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "criminal on cross, insulting",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Man (Crucified) Bad",
+    "FCBHCharacter": "Man (Crucified) Bad"
   },
   {
     "CharacterId": "criminal on cross, repentant",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "Adult",
-    "FCBHCharacter": "Man (Crucified) Good",
+    "FCBHCharacter": "Man (Crucified) Good"
   },
   {
     "CharacterId": "crippled man",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "crowd",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "crowd after mute healed",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "crowd at Festival of Tabernacles in Jerusalem, many in the",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "crowd at Festival of Tabernacles in Jerusalem, others",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "crowd at Festival of Tabernacles in Jerusalem, some",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "crowd at Festival of Tabernacles in Jerusalem, still others",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "crowd at Festival of Tabernacles in Jerusalem, the",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "crowd at Jericho",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "crowd before Pilate",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "crowd in Jerusalem",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "crowd in Jerusalem on Pentecost",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "crowd in Lystra",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "crowd near sea of Galilee",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "crowd preparing for Passover Feast",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "crowd preparing for Passover Feast, others",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "crowd, large (witnessed healing of widow\u0027s son)",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "crowd, many in the",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "crowd, some in",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "cured man, blind from birth",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Cyrus, king of Persia",
@@ -1828,7 +1828,7 @@
     "Age": "Adult",
     "SDBH": [
       "003268001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Dan",
@@ -1839,7 +1839,7 @@
     "SDBH": [
       "001689001002000",
       "001689001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Daniel",
@@ -1859,7 +1859,7 @@
   {
     "CharacterId": "Danites",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Darius, king of Medes and Persians",
@@ -1868,7 +1868,7 @@
     "Age": "Adult",
     "SDBH": [
       "001717001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Dathan",
@@ -1877,23 +1877,23 @@
     "Comment": "son of Eliab (Reubenite)",
     "SDBH": [
       "001733001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "daughter of Zion",
     "MaxSpeakers": -1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "daughters of Philip the evangelist",
     "MaxSpeakers": 4,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "daughters of Zelophehad",
     "MaxSpeakers": -1,
     "Gender": "Female",
-    "FCBHCharacter": "Daughter of Zelophehad (female)",
+    "FCBHCharacter": "Daughter of Zelophehad (female)"
   },
   {
     "CharacterId": "David",
@@ -1924,16 +1924,16 @@
   {
     "CharacterId": "David\u0027s enemies",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "David\u0027s men",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "David\u0027s supporters",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Deborah",
@@ -1943,7 +1943,7 @@
     "SDBH": [
       "001544002001000",
       "001544002002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Delaiah",
@@ -1953,7 +1953,7 @@
     "SDBH": [
       "001661001002000",
       "001661001003000"
-    ],
+    ]
   },
   {
     "CharacterId": "Delilah",
@@ -1961,7 +1961,7 @@
     "Gender": "Female",
     "SDBH": [
       "001663001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Demetrius the silversmith",
@@ -1975,46 +1975,46 @@
     "CharacterId": "demons (Legion)",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Man (Legion) Possessed",
+    "FCBHCharacter": "Man (Legion) Possessed"
   },
   {
     "CharacterId": "demons coming out of people",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "disciple who wanted to bury his father",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "disciples",
     "MaxSpeakers": 11,
     "Gender": "Male",
-    "Comment": "Not Judas Iscariot (after Acts 1:23, this could include Matthias)",
+    "Comment": "Not Judas Iscariot (after Acts 1:23, this could include Matthias)"
   },
   {
     "CharacterId": "disciples (but not Thomas)",
     "MaxSpeakers": 10,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "disciples in Ephesus, some",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "disciples of John the Baptist",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Disciple of John",
+    "FCBHCharacter": "Disciple of John"
   },
   {
     "CharacterId": "disciples, some",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "disciples, two men (from Joppa)",
     "MaxSpeakers": 2,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Doeg the Edomite",
@@ -2022,47 +2022,47 @@
     "Gender": "Male",
     "SDBH": [
       "001586001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "donkey (female)",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "dream",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "dreamers",
     "MaxSpeakers": -1,
-    "Gender": "Either",
+    "Gender": "Either"
   },
   {
     "CharacterId": "drunkard",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "each one",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "eagle crying with loud voice",
     "MaxSpeakers": 1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "ear",
     "MaxSpeakers": 1,
-    "Gender": "Neuter",
+    "Gender": "Neuter"
   },
   {
     "CharacterId": "Ebed-Melech (official of king of Judea)",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Comment": "Ethiopian eunuch",
+    "Comment": "Ethiopian eunuch"
   },
   {
     "CharacterId": "Edom",
@@ -2071,11 +2071,11 @@
     "SDBH": [
       "000114001001000",
       "000114001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Edomites",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Eglon, king of Moab",
@@ -2084,19 +2084,19 @@
     "SDBH": [
       "005231001001000",
       "005231001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Egyptian (slave of Amalekite)",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "Egyptians",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Egyptians, all the",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Ehud, Israelite deliverer",
@@ -2105,81 +2105,81 @@
     "SDBH": [
       "000163001001000",
       "000246001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "eighty other priests",
     "MaxSpeakers": 80,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Ekron, people of",
     "MaxSpeakers": -1,
     "SDBH": [
       "005635001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Elasah, son of Shaphan",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "elders",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Elder",
+    "Age": "Elder"
   },
   {
     "CharacterId": "elders in Shechem",
     "MaxSpeakers": -1,
     "Gender": "Male",
     "Age": "Elder",
-    "FCBHCharacter": "Elder",
+    "FCBHCharacter": "Elder"
   },
   {
     "CharacterId": "elders of Israel",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Elder",
+    "Age": "Elder"
   },
   {
     "CharacterId": "elders of Jabesh",
     "MaxSpeakers": -1,
     "Gender": "Male",
     "Age": "Elder",
-    "FCBHCharacter": "Man of Jabesh",
+    "FCBHCharacter": "Man of Jabesh"
   },
   {
     "CharacterId": "elders of the Jews",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Elder",
+    "Age": "Elder"
   },
   {
     "CharacterId": "elders of the land",
     "MaxSpeakers": -1,
     "Gender": "Male",
     "Age": "Elder",
-    "FCBHCharacter": "Elder",
+    "FCBHCharacter": "Elder"
   },
   {
     "CharacterId": "elders of the town",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Elder",
+    "Age": "Elder"
   },
   {
     "CharacterId": "elders, Ephesian",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Elder",
+    "Age": "Elder"
   },
   {
     "CharacterId": "elders, one of the",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Elder",
+    "Age": "Elder"
   },
   {
     "CharacterId": "Eleazar the priest, son of Aaron",
@@ -2202,7 +2202,7 @@
     "MaxSpeakers": 11,
     "Gender": "Male",
     "Age": "Adult",
-    "Comment": "This should be spoken by one of the 11 disciples (excluding Judas Iscariot). The wording suggests that it was not Simon Peter.",
+    "Comment": "This should be spoken by one of the 11 disciples (excluding Judas Iscariot). The wording suggests that it was not Simon Peter."
   },
   {
     "CharacterId": "Eli",
@@ -2228,7 +2228,7 @@
       "000409001006000",
       "000409001005000",
       "000409001003000 001220001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Eliakim",
@@ -2268,7 +2268,7 @@
       "000416001003000",
       "000416001004000",
       "000416001005000"
-    ],
+    ]
   },
   {
     "CharacterId": "Elijah",
@@ -2288,7 +2288,7 @@
     "SDBH": [
       "000428001001000",
       "000428001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Elisha",
@@ -2317,7 +2317,7 @@
   {
     "CharacterId": "Elisha\u0027s messenger",
     "MaxSpeakers": 1,
-    "Comment": "possibly Gehazi, but not named in this passage",
+    "Comment": "possibly Gehazi, but not named in this passage"
   },
   {
     "CharacterId": "Elishama",
@@ -2330,7 +2330,7 @@
       "000440001004000",
       "000440001005000",
       "000440001006000"
-    ],
+    ]
   },
   {
     "CharacterId": "Elizabeth",
@@ -2354,7 +2354,7 @@
       "000475001007000",
       "000475001003000",
       "000475001009000"
-    ],
+    ]
   },
   {
     "CharacterId": "Elnathan",
@@ -2364,7 +2364,7 @@
     "SDBH": [
       "000459001001000",
       "000459001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Elymas",
@@ -2377,21 +2377,21 @@
   },
   {
     "CharacterId": "enemies of God",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "enemies of Israel",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "enemies of Judah and Benjamin",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "enemy (female)",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "Enoch",
@@ -2422,7 +2422,7 @@
     "CharacterId": "Ephraimites",
     "MaxSpeakers": -1,
     "Comment": "i.e., specific/individual men of the tribe of Ephraim",
-    "FCBHCharacter": "Ephraimite",
+    "FCBHCharacter": "Ephraimite"
   },
   {
     "CharacterId": "Ephron the Hittite",
@@ -2431,28 +2431,28 @@
     "SDBH": [
       "005585001001000",
       "005585001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Epicurean and Stoic philosophers",
     "MaxSpeakers": -1,
-    "FCBHCharacter": "Philosopher",
+    "FCBHCharacter": "Philosopher"
   },
   {
     "CharacterId": "Epicurean and Stoic philosophers, interested",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Epicurean and Stoic philosophers, other",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Epicurean and Stoic philosophers, sneering",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Epicurean and Stoic philosophers, some",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Esau",
@@ -2473,7 +2473,7 @@
     "Age": "Adult",
     "SDBH": [
       "000582001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Ethan",
@@ -2484,7 +2484,7 @@
       "000363002002000",
       "000363002004000",
       "000363002005000"
-    ],
+    ]
   },
   {
     "CharacterId": "Ethiopian officer of Queen Candace",
@@ -2504,7 +2504,7 @@
   },
   {
     "CharacterId": "eunuch",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Eve",
@@ -2520,71 +2520,71 @@
   },
   {
     "CharacterId": "every created thing",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "every tongue",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "everyone",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "everyone in Judean hills who heard",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "everyone seeing healing of paralyzed man",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "everyone who saw healing of paralytic",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "everyone who witnessed healing of boy",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "evil men and troublemakers",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "evil spirit in possessed man",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "evil spirits",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "exiles",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "expert in religious law",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Comment": "also \u0022lawyer\u0022 (Gr. nomikos)",
+    "Comment": "also \u0022lawyer\u0022 (Gr. nomikos)"
   },
   {
     "CharacterId": "experts in religious law, one of the",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Comment": "also \u0022lawyer\u0022 (Gr. nomikos)",
+    "Comment": "also \u0022lawyer\u0022 (Gr. nomikos)"
   },
   {
     "CharacterId": "explorers, ten",
     "MaxSpeakers": 10,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "eye",
     "MaxSpeakers": 1,
-    "Gender": "Neuter",
+    "Gender": "Neuter"
   },
   {
     "CharacterId": "Ezekiel",
@@ -2592,7 +2592,7 @@
     "Gender": "Male",
     "SDBH": [
       "002898001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Ezra, priest and teacher",
@@ -2601,55 +2601,55 @@
     "FCBHCharacter": "Ezra",
     "SDBH": [
       "005351001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "false prophets",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "false teachers",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "false witnesses",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "false witnesses, many",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "family heads of Gilead",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "father of accused daughter",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "father of concubine",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Father in Law",
+    "FCBHCharacter": "Father in Law"
   },
   {
     "CharacterId": "father of cured man, blind from birth",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "father of demon-possessed boy",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "father of false prophet",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Felix, governor of Judea",
@@ -2662,7 +2662,7 @@
   {
     "CharacterId": "fellow prophet who refused to strike him",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Festus, governor of Judea",
@@ -2676,78 +2676,78 @@
     "CharacterId": "figure like that of a man (in vision)",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Comment": "Default character should be Jesus",
+    "Comment": "Default character should be Jesus"
   },
   {
     "CharacterId": "fir trees and cedars of Lebanon",
     "MaxSpeakers": -1,
     "Gender": "Neuter",
-    "FCBHCharacter": "Tree",
+    "FCBHCharacter": "Tree"
   },
   {
     "CharacterId": "flatterers",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "follower of Apollos",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "follower of Cephas (Peter)",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "follower of Christ",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "follower of Paul",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "followers of Jesus",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Folly",
     "MaxSpeakers": -1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "fool",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "foot",
     "MaxSpeakers": 1,
-    "Gender": "Neuter",
+    "Gender": "Neuter"
   },
   {
     "CharacterId": "foreigner who has joined himself to Yahweh",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Foreigner",
+    "FCBHCharacter": "Foreigner"
   },
   {
     "CharacterId": "foreman",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "formerly mute demon-possessed man",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "fortune telling slave girl",
     "MaxSpeakers": 1,
     "Gender": "Female",
-    "Age": "YoungAdult",
+    "Age": "YoungAdult"
   },
   {
     "CharacterId": "friends of Haman",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "Gaal, son of Ebed",
@@ -2755,7 +2755,7 @@
     "Gender": "Male",
     "SDBH": [
       "001469001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Gabriel",
@@ -2797,12 +2797,12 @@
   },
   {
     "CharacterId": "Gadarene (or Gerasenes) people",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Gadites",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Gallio, proconsul of Achaia",
@@ -2845,7 +2845,7 @@
       "001316001001000",
       "001315001002000",
       "001315001003000"
-    ],
+    ]
   },
   {
     "CharacterId": "Gedaliah, son of Pashur",
@@ -2856,7 +2856,7 @@
       "001316001001000",
       "001315001002000",
       "001315001003000"
-    ],
+    ]
   },
   {
     "CharacterId": "Gehazi",
@@ -2864,7 +2864,7 @@
     "Gender": "Male",
     "SDBH": [
       "001397001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Gemariah, son of Hilkiah",
@@ -2872,7 +2872,7 @@
     "Gender": "Male",
     "SDBH": [
       "001454001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Gemariah, son of Shaphan",
@@ -2880,7 +2880,7 @@
     "Gender": "Male",
     "SDBH": [
       "001454001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Gentiles",
@@ -2901,12 +2901,12 @@
   {
     "CharacterId": "Geshem the Arab",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Gibeonites",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Gideon (Jerubbaal)",
@@ -2930,7 +2930,7 @@
       "001435001001000 001435001002000",
       "001435001003000",
       "001435001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "Gilead, leaders of",
@@ -2943,7 +2943,7 @@
       "001435001001000 001435001002000",
       "001435001003000",
       "001435001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "Gilead, men of",
@@ -2956,7 +2956,7 @@
       "001435001001000 001435001002000",
       "001435001003000",
       "001435001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "God",
@@ -3000,7 +3000,7 @@
   {
     "CharacterId": "God\u0027s chosen (beloved) friend or ally",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Gog",
@@ -3021,18 +3021,18 @@
     "Age": "Adult",
     "SDBH": [
       "001426001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Good Priest",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Comment": "Many quotes resolve to this pseudo-character by default",
+    "Comment": "Many quotes resolve to this pseudo-character by default"
   },
   {
     "CharacterId": "great company of heavenly host",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Grecian Jews",
@@ -3055,13 +3055,13 @@
   {
     "CharacterId": "guardians of Ahab\u0027s sons",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "guards at high priests\u0027 house",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Habakkuk",
@@ -3069,7 +3069,7 @@
     "Gender": "Male",
     "SDBH": [
       "002095001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Hadad the Edomite",
@@ -3081,7 +3081,7 @@
       "001758001003000",
       "000112001001000",
       "001758001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Hagar, Sarai\u0027s maid",
@@ -3100,12 +3100,12 @@
     "Gender": "Male",
     "SDBH": [
       "002121001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "half-tribe of Manasseh",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Ham",
@@ -3114,7 +3114,7 @@
     "SDBH": [
       "002326003001000",
       "002326003002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Haman, highest noble to Xerxes, king",
@@ -3122,7 +3122,7 @@
     "Gender": "Male",
     "SDBH": [
       "001845001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Hamor, Hivite ruler",
@@ -3141,7 +3141,7 @@
     "Gender": "Male",
     "SDBH": [
       "002396001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Hanani the seer",
@@ -3155,7 +3155,7 @@
       "002401001003000",
       "002401001004000",
       "002401001005000"
-    ],
+    ]
   },
   {
     "CharacterId": "Hanani, brother of Nehemiah",
@@ -3167,7 +3167,7 @@
       "002401001003000",
       "002401001004000",
       "002401001005000"
-    ],
+    ]
   },
   {
     "CharacterId": "Hananiah, false prophet",
@@ -3183,7 +3183,7 @@
       "002402001008000",
       "002402001009000",
       "002402001010000"
-    ],
+    ]
   },
   {
     "CharacterId": "Hannah",
@@ -3191,7 +3191,7 @@
     "Gender": "Female",
     "SDBH": [
       "002380001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Harbona, eunuch attending Xerxes, king",
@@ -3200,12 +3200,12 @@
     "FCBHCharacter": "Eunuch",
     "SDBH": [
       "002512001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "harvesters",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Hazael of Aram",
@@ -3214,21 +3214,21 @@
     "Comment": "Annointed King of Aram/Syria by Elijah; assasinated Ben Hadad II about 16 years later",
     "SDBH": [
       "002185001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "head",
     "MaxSpeakers": 1,
-    "Gender": "Neuter",
+    "Gender": "Neuter"
   },
   {
     "CharacterId": "heads of all the families",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "hearers",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Hellenists in Antioch",
@@ -3242,17 +3242,17 @@
   {
     "CharacterId": "herald",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "herdsman",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "herdsmen of pigs",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Herod Antipas (the tetrarch)",
@@ -3285,7 +3285,7 @@
   {
     "CharacterId": "Herodias\u0027 daughter",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "Heshbon, people of",
@@ -3293,7 +3293,7 @@
     "Gender": "Male",
     "SDBH": [
       "002582002001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Hezekiah, king of Judah",
@@ -3314,12 +3314,12 @@
     "CharacterId": "high priest",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Comment": "Not a particular (historical) high priest, but rather an arbitrary (hypothetical) holder of that office",
+    "Comment": "Not a particular (historical) high priest, but rather an arbitrary (hypothetical) holder of that office"
   },
   {
     "CharacterId": "high priest\u0027s servant (relative of the man whose ear Peter cut off)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Hilkiah, high priest",
@@ -3334,12 +3334,12 @@
       "002320001006000",
       "002320001007000",
       "002320001008000"
-    ],
+    ]
   },
   {
     "CharacterId": "him who hears",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Hirah, the Adullamite",
@@ -3347,7 +3347,7 @@
     "Gender": "Male",
     "SDBH": [
       "002252001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Hiram, king of Tyre",
@@ -3356,12 +3356,12 @@
     "SDBH": [
       "002253001001000",
       "002253001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Hittites",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Hobab, Moses brother-in-law",
@@ -3369,28 +3369,28 @@
     "Gender": "Male",
     "SDBH": [
       "002073001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "holy one (in vision)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Holy Spirit, the",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Divinity": "Y",
+    "Divinity": "Y"
   },
   {
     "CharacterId": "horseman, first",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "horseman, second",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Hosea",
@@ -3406,7 +3406,7 @@
   {
     "CharacterId": "house of Aaron, the",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Huldah, prophetess",
@@ -3414,23 +3414,23 @@
     "Gender": "Female",
     "SDBH": [
       "002278001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "husband accusing wife",
     "MaxSpeakers": 1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "husband of excellent wife",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "husband of Shunammite",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Father",
+    "FCBHCharacter": "Father"
   },
   {
     "CharacterId": "Hushai, David\u0027s friend",
@@ -3439,57 +3439,57 @@
     "SDBH": [
       "002182001001000",
       "002182001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "hymn, early creedal",
     "MaxSpeakers": 1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "idolaters from Judah (men)",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "idolaters from Judah (women)",
     "MaxSpeakers": -1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "immoral woman",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "informer",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "inhabitant of valley",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "inhabitants of Egyptian and Ethiopian coastlands",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "inscription on forehead of Babylon",
     "MaxSpeakers": 1,
-    "Gender": "PreferFemale",
+    "Gender": "PreferFemale"
   },
   {
     "CharacterId": "invaders",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "invalid for 38 years",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Irijah, captain of the guard of Judah",
@@ -3497,7 +3497,7 @@
     "Gender": "Male",
     "SDBH": [
       "003085001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Isaac",
@@ -3537,7 +3537,7 @@
   {
     "CharacterId": "Ish-Bosheth, son of Saul",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Ishmael, son of Nethaniah (murderer)",
@@ -3548,11 +3548,11 @@
       "003167001002000",
       "003167001004000",
       "003167001006000"
-    ],
+    ]
   },
   {
     "CharacterId": "islanders",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Israel",
@@ -3772,7 +3772,7 @@
     "SDBH": [
       "003194001001000",
       "003194001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Ittai",
@@ -3781,7 +3781,7 @@
     "SDBH": [
       "000800001001000",
       "000800001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Jabez",
@@ -3790,12 +3790,12 @@
     "SDBH": [
       "002978001001000",
       "002978002001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Jabez\u0027s mother",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "Jacob (Israel)",
@@ -3816,7 +3816,7 @@
     "Gender": "Female",
     "SDBH": [
       "002997003001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Jahaziel",
@@ -3825,12 +3825,12 @@
     "SDBH": [
       "002896001003000",
       "002896001005000"
-    ],
+    ]
   },
   {
     "CharacterId": "jailer in Philippi",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Jairus (synagogue leader)",
@@ -3843,7 +3843,7 @@
   {
     "CharacterId": "Jairus\u0027 wife",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "James",
@@ -3875,13 +3875,13 @@
     "CharacterId": "Jebusites",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Jebusite",
+    "FCBHCharacter": "Jebusite"
   },
   {
     "CharacterId": "Jehizkiah",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Comment": "leader in Ephraim",
+    "Comment": "leader in Ephraim"
   },
   {
     "CharacterId": "Jehoash, king of Israel",
@@ -3890,7 +3890,7 @@
     "SDBH": [
       "002817001003000",
       "002817001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "Jehoiada the priest",
@@ -3900,17 +3900,17 @@
       "002826001001000",
       "002826001002000",
       "002826001005000"
-    ],
+    ]
   },
   {
     "CharacterId": "Jehoiada\u0027s sons",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Jehonadab, son of Rechab",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Jehoshaphat, king of Judah",
@@ -3936,7 +3936,7 @@
       "002815001002000",
       "002815001001000",
       "002815001003000"
-    ],
+    ]
   },
   {
     "CharacterId": "Jehu, son of Nimshi",
@@ -3947,7 +3947,7 @@
       "002815001002000",
       "002815001001000",
       "002815001003000"
-    ],
+    ]
   },
   {
     "CharacterId": "Jehucal",
@@ -3956,7 +3956,7 @@
     "Comment": "son of Shelemiah",
     "SDBH": [
       "002830001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Jehudi",
@@ -3964,7 +3964,7 @@
     "Gender": "Male",
     "SDBH": [
       "002820001003000"
-    ],
+    ]
   },
   {
     "CharacterId": "Jephthah",
@@ -3982,13 +3982,13 @@
     "MaxSpeakers": 1,
     "Gender": "Female",
     "Age": "YoungAdult",
-    "Comment": "youth",
+    "Comment": "youth"
   },
   {
     "CharacterId": "Jephthah\u0027s half-brothers",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Son of Gilead",
+    "FCBHCharacter": "Son of Gilead"
   },
   {
     "CharacterId": "Jeremiah",
@@ -4009,12 +4009,12 @@
   {
     "CharacterId": "Jeremiah\u0027s enemies",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Jeremiah\u0027s friends (bad)",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "Jeroboam",
@@ -4023,7 +4023,7 @@
     "SDBH": [
       "003088001001000",
       "003088001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Jerusalem (personified)",
@@ -4049,7 +4049,7 @@
       "003151001004000",
       "003151001006000",
       "003151001007000"
-    ],
+    ]
   },
   {
     "CharacterId": "Jesse",
@@ -4091,12 +4091,12 @@
   {
     "CharacterId": "Jesus\u0027 brothers",
     "MaxSpeakers": 4,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Jesus\u0027 family",
     "MaxSpeakers": -1,
-    "Gender": "Either",
+    "Gender": "Either"
   },
   {
     "CharacterId": "Jethro (Reuel), Moses\u0027 father-in-law",
@@ -4105,74 +4105,74 @@
     "SDBH": [
       "003207001001000",
       "003204003001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Jewish leaders",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Jewish leaders in Pisidian Antioch",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Jews from Asia",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Jews of Berea",
     "MaxSpeakers": -1,
-    "Comment": "noble",
+    "Comment": "noble"
   },
   {
     "CharacterId": "Jews of Cyrene, Alexandria, Cilicia \u0026 Asia",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Jews who had been with Mary and Martha",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Jews who had been with Mary and Martha, some",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Jews who had believed Jesus",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Jews, God-fearing from every nation",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Jews, God-fearing from every nation, some",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Jews, leaders of the (in Rome)",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Jews, many",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Jews, more than forty in conspiracy",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Assassin",
+    "FCBHCharacter": "Assassin"
   },
   {
     "CharacterId": "Jews, other",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Jews, the",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Jezebel",
@@ -4193,12 +4193,12 @@
       "002845001001000",
       "002845001002000",
       "002845001003000"
-    ],
+    ]
   },
   {
     "CharacterId": "Joab\u0027s men, one of",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Joah",
@@ -4209,7 +4209,7 @@
       "002846001003000",
       "002846001004000",
       "002846001005000"
-    ],
+    ]
   },
   {
     "CharacterId": "Joash, father of Gideon (Jerubbaal)",
@@ -4222,7 +4222,7 @@
       "002817001003000",
       "002817001004000",
       "002867001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Joash, king of Judah",
@@ -4236,7 +4236,7 @@
       "002817001003000",
       "002817001004000",
       "002867001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Job",
@@ -4252,7 +4252,7 @@
   {
     "CharacterId": "Job\u0027s wife",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "Joel",
@@ -4284,7 +4284,7 @@
       "002825001011000",
       "002825001012000",
       "002825001010000"
-    ],
+    ]
   },
   {
     "CharacterId": "John",
@@ -4332,7 +4332,7 @@
     "SDBH": [
       "002831001001000",
       "002831001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Jonah",
@@ -4359,13 +4359,13 @@
       "002832001009000",
       "002832001012000",
       "002832001008000"
-    ],
+    ]
   },
   {
     "CharacterId": "Jonathan\u0027s armor bearer",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Armor-bearer",
+    "FCBHCharacter": "Armor-bearer"
   },
   {
     "CharacterId": "Jonathan, son of Abiathar",
@@ -4382,7 +4382,7 @@
       "002832001009000",
       "002832001012000",
       "002832001008000"
-    ],
+    ]
   },
   {
     "CharacterId": "Joram (Jehoram), king of Israel",
@@ -4712,7 +4712,7 @@
   {
     "CharacterId": "Judaizers",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Judas Iscariot",
@@ -4744,7 +4744,7 @@
   {
     "CharacterId": "judge (corrupt)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Julius",
@@ -4758,81 +4758,81 @@
   {
     "CharacterId": "king",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "King Herod Agrippa II",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "King Agrippa",
+    "FCBHCharacter": "King Agrippa"
   },
   {
     "CharacterId": "King Lemuel",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "King Lemuel\u0027s mother",
     "MaxSpeakers": 1,
     "Gender": "Female",
-    "FCBHCharacter": "Mother of King Lemuel (female)",
+    "FCBHCharacter": "Mother of King Lemuel (female)"
   },
   {
     "CharacterId": "king of Babylon",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "king of Bela",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "king of Jericho",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "king of Nineveh",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "king of the Ammonites",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "King Xerxes\u0027 personal servants",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "King Xerxes\u0027 servants at the gate",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "kings of the earth",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "kings over the nations",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "kings, princes, generals, rich, powerful, slave and free",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "kinsman-redeemer",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Near Kinsman",
+    "FCBHCharacter": "Near Kinsman"
   },
   {
     "CharacterId": "Kish, father of Saul",
@@ -4869,12 +4869,12 @@
     "Gender": "Male",
     "SDBH": [
       "003509002001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Laban\u0027s sons",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Lamech (descendent of Cain)",
@@ -4905,12 +4905,12 @@
   {
     "CharacterId": "leaders",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "leaders, many",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Leah",
@@ -4918,35 +4918,35 @@
     "Gender": "Female",
     "SDBH": [
       "003491001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "leech\u0027s two daughters",
     "MaxSpeakers": 2,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "leper",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Man (Leper)",
+    "FCBHCharacter": "Man (Leper)"
   },
   {
     "CharacterId": "leper, thankful Samaritan",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Man (Leper) Healed",
+    "FCBHCharacter": "Man (Leper) Healed"
   },
   {
     "CharacterId": "lepers, ten",
     "MaxSpeakers": 10,
     "Gender": "Male",
-    "FCBHCharacter": "Man (Leper)",
+    "FCBHCharacter": "Man (Leper)"
   },
   {
     "CharacterId": "letter from apostles and elders",
     "MaxSpeakers": 1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "Levi",
@@ -5000,30 +5000,30 @@
   },
   {
     "CharacterId": "living creature, first",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "living creature, fourth",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "living creature, second",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "living creature, third",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "lookout",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Watchman",
+    "FCBHCharacter": "Watchman"
   },
   {
     "CharacterId": "lookout in Jezreel",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Lot",
@@ -5047,7 +5047,7 @@
   {
     "CharacterId": "lying words",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Macedonian",
@@ -5061,24 +5061,24 @@
     "CharacterId": "magi (wise men from East)",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Wise Man",
+    "FCBHCharacter": "Wise Man"
   },
   {
     "CharacterId": "magicians",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "magistrates, chief",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "maidens",
     "MaxSpeakers": -1,
     "Gender": "Female",
     "Age": "YoungAdult",
-    "FCBHCharacter": "Daughter of Jerusalem (female)",
+    "FCBHCharacter": "Daughter of Jerusalem (female)"
   },
   {
     "CharacterId": "Makir",
@@ -5088,7 +5088,7 @@
     "SDBH": [
       "003977001001000",
       "003977001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Malachi",
@@ -5096,7 +5096,7 @@
     "Gender": "Male",
     "SDBH": [
       "004022001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Malta islanders",
@@ -5108,150 +5108,150 @@
   {
     "CharacterId": "man (at Shechem)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man (Hebrew fighting)",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Hebrew",
+    "FCBHCharacter": "Hebrew"
   },
   {
     "CharacterId": "man (hypothetical)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man all alone",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man answered David",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man delivered from Legion of demons",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Comment": "Account in Matthew 8 indicates that there were two men, but since other accounts only have 1, best to keep as single voice.",
+    "Comment": "Account in Matthew 8 indicates that there were two men, but since other accounts only have 1, best to keep as single voice."
   },
   {
     "CharacterId": "man escaped from Jerusalem",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man in linen above river",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man in linen with writing kit (in vision)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man like bronze with measuring rod (in vision)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man of Gibeah",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man of God (prophet to Amaziah)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man of God (prophet to Eli)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man of God (prophet to the king of Israel)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man of God from Judah",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man of lawlessness",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man possessed by evil spirit",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man reporting to David",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man who builds his house by unrighteousness",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man who says \u0027I know him\u0027",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man who says \u0027we remain in union with God\u0027",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man with measuring line (in vision)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man with sponge",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man\u0027s brother (hypothetical)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man\u0027s voice from the Ulai (in vision)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man, deceitful",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man, still another",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "man, wicked",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Manoah\u0027s wife, mother of Samson",
     "MaxSpeakers": 1,
     "Gender": "Female",
-    "FCBHCharacter": "Mother of Samson (female)",
+    "FCBHCharacter": "Mother of Samson (female)"
   },
   {
     "CharacterId": "Manoah, father of Samson",
@@ -5260,15 +5260,15 @@
     "FCBHCharacter": "Manoah",
     "SDBH": [
       "004110002001000 004111002001000"
-    ],
+    ]
   },
   {
     "CharacterId": "many in crowd",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "many Samaritans",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Martha",
@@ -5346,7 +5346,7 @@
   {
     "CharacterId": "master of the banquet",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Melchizedek, king of Salem (priest of God Most High)",
@@ -5362,162 +5362,162 @@
     "Gender": "Male",
     "SDBH": [
       "004080001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "men",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Man",
+    "FCBHCharacter": "Man"
   },
   {
     "CharacterId": "men (soldiers) standing near David",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men appointed to sing and praise",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men dressed in white, two (angels)",
     "MaxSpeakers": 2,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "men from Cornelius",
     "MaxSpeakers": 3,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men from Jairus\u0027 house",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men from Judea, some",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men in Capernaum synagogue",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men in mourning, ten of eighty",
     "MaxSpeakers": 10,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men in Nazareth synagogue",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men of Anathoth",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Comment": "people who wanted to kill Jeremiah",
+    "Comment": "people who wanted to kill Jeremiah"
   },
   {
     "CharacterId": "men of Ashdod",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men of Babel",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men of Bethel",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men of David",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men of David, one",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men of Enaim",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men of Gennesaret",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men of Gerar",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men of Jabesh",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men of Jericho",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men of Sodom (wicked)",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Sodomite",
+    "FCBHCharacter": "Sodomite"
   },
   {
     "CharacterId": "men who are complacent",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men who have gone astray",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men with leprosy, four",
     "MaxSpeakers": 4,
     "Gender": "Male",
-    "FCBHCharacter": "Leper",
+    "FCBHCharacter": "Leper"
   },
   {
     "CharacterId": "men, large force of",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men, many",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men, other",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men, some",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "men, still others",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Mephibosheth, son of Jonathan",
@@ -5526,12 +5526,12 @@
     "SDBH": [
       "004257001002000",
       "004257001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "merchants of the earth",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "Meshach",
@@ -5540,160 +5540,160 @@
     "Comment": "original Hebrew name: Mishael",
     "SDBH": [
       "003961001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "message from Tamar, daughter-in-law of Judah",
     "MaxSpeakers": 1,
-    "Gender": "PreferFemale",
+    "Gender": "PreferFemale"
   },
   {
     "CharacterId": "message to Saul",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "messenger",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "messenger from battle to David",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "messenger from guardians of Ahab\u0027s children",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Messenger",
+    "FCBHCharacter": "Messenger"
   },
   {
     "CharacterId": "messenger of Ahab, king of Israel",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "messenger to Abimelech",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "messenger to Abraham",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "messenger to David",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "messenger to Jesus",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "messenger to Job",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Messenger",
+    "FCBHCharacter": "Messenger"
   },
   {
     "CharacterId": "messenger to Job, another",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Messenger",
+    "FCBHCharacter": "Messenger"
   },
   {
     "CharacterId": "messenger to Job, still another",
     "MaxSpeakers": 1,
-    "FCBHCharacter": "Messenger",
+    "FCBHCharacter": "Messenger"
   },
   {
     "CharacterId": "messenger to Job, yet another",
     "MaxSpeakers": 1,
-    "FCBHCharacter": "Messenger",
+    "FCBHCharacter": "Messenger"
   },
   {
     "CharacterId": "messenger to king of Jericho",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "messenger to Saul",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "messenger to the king and to the queen mother",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "messenger, Cushite",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Cushite",
+    "FCBHCharacter": "Cushite"
   },
   {
     "CharacterId": "messengers from Jephthah",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "messengers Israel sent to Amorite king Sihon",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "messengers Moses sent to king of Edom",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "messengers of Ahaziah",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "messengers of Ben-Hadad, king of Aram",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "messengers of Jabesh",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "messengers of Saul",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "messengers sent by Jacob",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "messenger telling about Zimri\u0027s conspiracy",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "messengers to Jezebel",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "messengers to Joab",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "messengers to Saul",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "Micah of Ephraim",
@@ -5707,12 +5707,12 @@
       "003946001006000",
       "003946001008000",
       "003946001007000"
-    ],
+    ]
   },
   {
     "CharacterId": "Micah\u0027s mother",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "Micah, prophet",
@@ -5728,7 +5728,7 @@
       "003946001006000",
       "003946001008000",
       "003946001007000"
-    ],
+    ]
   },
   {
     "CharacterId": "Micaiah, son of Imlah",
@@ -5741,7 +5741,7 @@
       "003950001001000",
       "003948001002000",
       "003949001003000"
-    ],
+    ]
   },
   {
     "CharacterId": "Michael, archangel",
@@ -5767,27 +5767,27 @@
     "FCBHCharacter": "Michal (female)",
     "SDBH": [
       "003951001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Midianite soldier who had a dream",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Midianite soldier who interprets dream",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "midwife of Rachel",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "midwife of Tamar, daughter-in-law of Judah",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "Miriam",
@@ -5797,7 +5797,7 @@
     "SDBH": [
       "004404001001000",
       "004404001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Miriam (young)",
@@ -5807,37 +5807,37 @@
     "SDBH": [
       "004404001001000",
       "004404001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Moabite officials",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Moabite officials, more distinguished",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Moabites",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Moabitesses (female)",
     "MaxSpeakers": -1,
     "Gender": "Female",
-    "FCBHCharacter": "Daughter of Moab (female)",
+    "FCBHCharacter": "Daughter of Moab (female)"
   },
   {
     "CharacterId": "mob",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "molded thing",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "Mordecai, cousin of Esther",
@@ -5846,7 +5846,7 @@
     "SDBH": [
       "004378001001000",
       "004378001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Moses",
@@ -5863,29 +5863,29 @@
   {
     "CharacterId": "mother of cured man, blind from birth",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "mother of false prophet",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "mother of the sons of Zebedee (James and John)",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "mourners",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "multitude from all nations, tribes, peoples, languages",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "musicians",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Naaman",
@@ -5901,7 +5901,7 @@
   {
     "CharacterId": "Naaman\u0027s servants",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Nabal",
@@ -5910,7 +5910,7 @@
     "SDBH": [
       "004618002001000",
       "004618001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Naboth",
@@ -5918,7 +5918,7 @@
     "Gender": "Male",
     "SDBH": [
       "004604001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Nahash the Ammonite",
@@ -5927,7 +5927,7 @@
     "SDBH": [
       "004747002001000",
       "004747002002000"
-    ],
+    ]
   },
   {
     "CharacterId": "Nahum",
@@ -5946,7 +5946,7 @@
     "Gender": "Female",
     "SDBH": [
       "004843001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Naphtali",
@@ -5989,12 +5989,12 @@
   {
     "CharacterId": "nations",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "nations, neighboring (reply)",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "Nebuchadnezzar, king of Babylon",
@@ -6003,7 +6003,7 @@
     "SDBH": [
       "004602001001000",
       "004601001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Nebuzaradan",
@@ -6011,13 +6011,13 @@
     "Gender": "Male",
     "SDBH": [
       "004600001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Neco, king of Egypt",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Ambassador",
+    "FCBHCharacter": "Ambassador"
   },
   {
     "CharacterId": "Nehemiah",
@@ -6027,42 +6027,42 @@
       "004737001001000",
       "004737001002000",
       "004737001003000"
-    ],
+    ]
   },
   {
     "CharacterId": "neighboring nations around Moab",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "neighbors and relatives of Elizabeth and Zacharias (Zechariah)",
     "MaxSpeakers": -1,
-    "Gender": "Either",
+    "Gender": "Either"
   },
   {
     "CharacterId": "neighbors of man blind from birth",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "neighbors of man blind from birth, others",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "neighbors of man blind from birth, some",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "news giver to Jacob",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "news giver to Joseph",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "news to Pharoah\u0027s palace",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "Nicodemus",
@@ -6086,7 +6086,7 @@
   },
   {
     "CharacterId": "no one",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Noah",
@@ -6104,16 +6104,16 @@
     "CharacterId": "nobles and officials (Jewish)",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Official",
+    "FCBHCharacter": "Official"
   },
   {
     "CharacterId": "non-reader",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "oarsmen, mariners, pilots of the sea",
     "MaxSpeakers": -1,
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Obadiah, manager of Ahab\u0027s palace",
@@ -6127,7 +6127,7 @@
       "005199001007000",
       "005199001008000",
       "005199001009000"
-    ],
+    ]
   },
   {
     "CharacterId": "Obadiah, prophet",
@@ -6141,7 +6141,7 @@
       "005199001007000",
       "005199001008000",
       "005199001009000"
-    ],
+    ]
   },
   {
     "CharacterId": "Oded, prophet",
@@ -6151,125 +6151,125 @@
     "SDBH": [
       "005281001001000",
       "005281001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "officer of King Jehoshaphat of Israel",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "officer of King Joram of Israel",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "officer of king of Israel, on whose arm the king leaned",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "officers",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "officers of king of Aram",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "officers of king of Babylon",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "officers of magistrates",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "officers of temple guard",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "official, royal (father)",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Father",
+    "FCBHCharacter": "Father"
   },
   {
     "CharacterId": "officials",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "officials from chief priests and Pharisees",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "officials of Belshazzar",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "officials of Ben-Hadad, king of Aram",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "officials of David",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "officials of high priest, one of the",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Officer",
+    "FCBHCharacter": "Officer"
   },
   {
     "CharacterId": "officials of Samaria",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Elder",
+    "FCBHCharacter": "Elder"
   },
   {
     "CharacterId": "officials of Succoth",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Prince of Succoth",
+    "FCBHCharacter": "Prince of Succoth"
   },
   {
     "CharacterId": "officials of Trans-Euphrates",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "officials, Ephesus (friends of Paul)",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "old man in Gibeah",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Elder",
+    "Age": "Elder"
   },
   {
     "CharacterId": "old prophet in Bethel",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "Elder",
-    "FCBHCharacter": "Prophet (old)",
+    "FCBHCharacter": "Prophet (old)"
   },
   {
     "CharacterId": "older daughter of Lot",
     "MaxSpeakers": 1,
     "Gender": "Female",
-    "FCBHCharacter": "Daughter of Lot (female)",
+    "FCBHCharacter": "Daughter of Lot (female)"
   },
   {
     "CharacterId": "On",
@@ -6278,49 +6278,49 @@
     "Comment": "son of Peleth (Reubenite)",
     "SDBH": [
       "000195003001000"
-    ],
+    ]
   },
   {
     "CharacterId": "one at table of Pharisee (expert in religious law)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "one of the others who stood on the river bank",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "one of you",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "one who allowed Paul to live by himself",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "one who brings good news",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "one who had escaped",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "one who robs his father or mother",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "onlookers",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "oppressors of poor",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Orpah",
@@ -6328,59 +6328,59 @@
     "Gender": "Female",
     "SDBH": [
       "005687001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "other guests at Pharisee (Simon)\u0027s house",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "others (testing Jesus)",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "others who would not believe",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "owners of colt",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "owners of fortune telling slave girl",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "palace administrator and overseer (elder) of the city",
     "MaxSpeakers": 2,
     "Gender": "Male",
-    "FCBHCharacter": "Elder",
+    "FCBHCharacter": "Elder"
   },
   {
     "CharacterId": "parents of cured man, blind from birth",
     "MaxSpeakers": 2,
     "Gender": "Either",
-    "Comment": "May want to assign one or more of these lines to female, as appropriate",
+    "Comment": "May want to assign one or more of these lines to female, as appropriate"
   },
   {
     "CharacterId": "parents of rebellious son",
     "MaxSpeakers": 2,
-    "Gender": "Either",
+    "Gender": "Either"
   },
   {
     "CharacterId": "Pashur",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Comment": "son of Malkijah",
-    "FCBHCharacter": "Pashhur",
+    "FCBHCharacter": "Pashhur"
   },
   {
     "CharacterId": "passers by",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Paul",
@@ -6393,7 +6393,7 @@
   },
   {
     "CharacterId": "Paul\u0027s traveling companions, Luke and",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Pekah, son of Remaliah, king of Israel",
@@ -6401,280 +6401,280 @@
     "Gender": "Male",
     "SDBH": [
       "005970001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "people",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people at cistern",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people at coronation of King Joash",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people at Gennesaret (sick)",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people at Jairus\u0027 house",
     "MaxSpeakers": -1,
-    "FCBHCharacter": "Man (Not Good)",
+    "FCBHCharacter": "Man (Not Good)"
   },
   {
     "CharacterId": "people from Jerusalem, Judea and the region around the Jordan",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people in Capernaum",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people in Capernaum synagogue",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people in crowd by Sea of Galilee",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people in high priest\u0027s courtyard",
     "MaxSpeakers": -1,
     "Gender": "Either",
-    "Comment": "Group consisted of at least a servant girl and a man",
+    "Comment": "Group consisted of at least a servant girl and a man"
   },
   {
     "CharacterId": "people in Jericho, all the",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people in Pisidian Antioch synagogue",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people in temple courts, all the",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people in the temple",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people near Jordan River",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people of Decapolis",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people of Jerusalem",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people of Jerusalem, some",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people of Samaria, all the",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people of Tyre and Sidon",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people praying at John Mark\u0027s mother\u0027s house",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people who had known Saul",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people who heard about Jesus\u0027 birth",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people who saw healing of demon-possessed man who was blind and mute",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people who see Nineveh\u0027s destruction",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people, all the",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people, arrogant wicked",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people, God\u0027s",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people, hurried",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people, Israel, tribes of",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people, other",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people, repentant",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people, righteous",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people, self-righteous",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people, some",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "people, still others",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "peoples, many",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "person asking someone to read a sealed book",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "person claiming to have a pure heart",
     "MaxSpeakers": 1,
-    "Gender": "Either",
+    "Gender": "Either"
   },
   {
     "CharacterId": "person encouraging Jerusalem",
     "MaxSpeakers": 1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "person near Lazarus\u0027 grave who informed Jesus",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "person sacrificing",
     "MaxSpeakers": 1,
-    "FCBHCharacter": "Man",
+    "FCBHCharacter": "Man"
   },
   {
     "CharacterId": "person warning people of Benjamin to flee",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "person who informed Judah",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "person who informed Laban",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "person who informed people of Gaza",
     "MaxSpeakers": 1,
-    "FCBHCharacter": "Man",
+    "FCBHCharacter": "Man"
   },
   {
     "CharacterId": "person who informed Pharaoh",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "person who informed Rabshakeh",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "person who informed Rebekah",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "person who informed Sisera",
     "MaxSpeakers": 1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "person who informed Solomon",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "person who informed Tamar, daughter-in-law of Judah",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "person who informed the sons of Israel",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "person who informed townsmen of Ophrah",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "person who told David about Obed-Edom",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "person who told David about Philistines",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "person who told David of Nathan\u0027s arrival",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "person who told Joshua where the kings were hiding",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "person who told king of Aram of Elisha\u0027s arrival",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "person who told Samuel where Saul was",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "person who told Saul where David was",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "person who told Shimei where his servants were",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "person who told the guards and priests where the apostles were",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "person without the gift of tongues",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "Peter (Simon)",
@@ -6759,12 +6759,12 @@
   {
     "CharacterId": "Pharaoh\u0027s daughter",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "Pharaoh\u0027s officials",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Pharisee (expert in religious law)",
@@ -6810,7 +6810,7 @@
   {
     "CharacterId": "Phicol",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Philip the apostle",
@@ -6838,34 +6838,34 @@
     "CharacterId": "Philistine commanders",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Commander",
+    "FCBHCharacter": "Commander"
   },
   {
     "CharacterId": "Philistine priests and fortune tellers",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Philistine rulers",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Philistines",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Phineas the priest",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Phinehas",
+    "FCBHCharacter": "Phinehas"
   },
   {
     "CharacterId": "Phineas\u0027 wife (daughter-in-law of Eli)",
     "MaxSpeakers": 1,
     "Gender": "Female",
-    "FCBHCharacter": "Mother of Ichabod (female)",
+    "FCBHCharacter": "Mother of Ichabod (female)"
   },
   {
     "CharacterId": "Pilate",
@@ -6878,124 +6878,124 @@
   {
     "CharacterId": "Pilate\u0027s wife",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "poets",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Potiphar\u0027s wife",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "priest",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "priest of Jupiter",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "priests",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "prince of Tyre",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "princes of the sea",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Prince of the Sea",
+    "FCBHCharacter": "Prince of the Sea"
   },
   {
     "CharacterId": "proclaimers of God\u0027s word",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "proclamation",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "proclamation of the resurrection",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "prophet",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Comment": "prophet who spoke to Ahab king of Israel",
+    "Comment": "prophet who spoke to Ahab king of Israel"
   },
   {
     "CharacterId": "prophet of Yahweh sent to Israel",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "prophet sent to Amaziah",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "prophet who confronts Ahab",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "prophets",
     "MaxSpeakers": -1,
-    "Comment": "Former prophets (generically), quoted",
+    "Comment": "Former prophets (generically), quoted"
   },
   {
     "CharacterId": "prophets (speaking the word of Yahweh)",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "prophets and seers",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "prophets and teachers at Antioch",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "prophets of Baal",
     "MaxSpeakers": -1,
-    "FCBHCharacter": "Prophet of Baal",
+    "FCBHCharacter": "Prophet of Baal"
   },
   {
     "CharacterId": "prophets, 400 false",
     "MaxSpeakers": 400,
-    "FCBHCharacter": "Prophet (false)",
+    "FCBHCharacter": "Prophet (false)"
   },
   {
     "CharacterId": "prostitute (symbolic of Israel)",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "prostitute, one",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "prostitute, other",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "psalmist",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Puah (midwife)",
@@ -7004,28 +7004,28 @@
     "SDBH": [
       "005810001001000",
       "005795001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "queen of Babylon",
     "MaxSpeakers": 1,
     "Gender": "Female",
-    "Comment": "Probably Belshazzar\u0027s mother",
+    "Comment": "Probably Belshazzar\u0027s mother"
   },
   {
     "CharacterId": "queen of Sheba",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "queens and concubines",
     "MaxSpeakers": -1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "Rabshakeh",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Rachel",
@@ -7049,7 +7049,7 @@
   },
   {
     "CharacterId": "reader",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "Rebekah",
@@ -7057,17 +7057,17 @@
     "Gender": "Female",
     "SDBH": [
       "006675001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Rebekah\u0027s mother",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "rebels",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "Rechab",
@@ -7078,18 +7078,18 @@
       "006795001001000",
       "006795001002000",
       "006795001003000"
-    ],
+    ]
   },
   {
     "CharacterId": "Rechabite family, men of",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Rechabite",
+    "FCBHCharacter": "Rechabite"
   },
   {
     "CharacterId": "Regem-Melech",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Rehoboam, king",
@@ -7112,75 +7112,75 @@
       "006751001002000",
       "006751001003000",
       "006751001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "relative",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "relatives of Ahaziah, king of Judah",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "reply to the slain believers (in vision)",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "report about Jesus",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "report about John the Baptist",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "report about Lazarus",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "report concerning new believers in Antioch",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "report concerning Paul",
     "MaxSpeakers": 1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "report of God\u0027s mercy to Elizabeth",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "report to king of Aram",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "report to king of Assyria",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "report to Martha about Jesus",
     "MaxSpeakers": -1,
-    "Gender": "PreferFemale",
+    "Gender": "PreferFemale"
   },
   {
     "CharacterId": "report to Sanballat and Tobiah",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "rest of heads of families",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Reuben",
@@ -7197,7 +7197,7 @@
     "CharacterId": "Reubenites",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Reubenite",
+    "FCBHCharacter": "Reubenite"
   },
   {
     "CharacterId": "Rhoda",
@@ -7214,38 +7214,38 @@
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "YoungAdult",
-    "FCBHCharacter": "Young Man (Rich)",
+    "FCBHCharacter": "Young Man (Rich)"
   },
   {
     "CharacterId": "rooster",
     "MaxSpeakers": 1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "royal record",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Scribe",
+    "FCBHCharacter": "Scribe"
   },
   {
     "CharacterId": "rule given by Paul",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "rules of the world",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "rumbling sound",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Angel",
+    "FCBHCharacter": "Angel"
   },
   {
     "CharacterId": "rumor",
     "MaxSpeakers": 1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "Ruth",
@@ -7263,7 +7263,7 @@
     "MaxSpeakers": -1,
     "SDBH": [
       "004978001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Sadducees",
@@ -7276,13 +7276,13 @@
   {
     "CharacterId": "sailors on ship to Italy (Rome)",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "sailors on ship to Tarshish",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Sailor",
+    "FCBHCharacter": "Sailor"
   },
   {
     "CharacterId": "Salome",
@@ -7307,19 +7307,19 @@
     "CharacterId": "Samson\u0027s 30 Philistine companions",
     "MaxSpeakers": 30,
     "Gender": "Male",
-    "FCBHCharacter": "Philistine",
+    "FCBHCharacter": "Philistine"
   },
   {
     "CharacterId": "Samson\u0027s father-in-law",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Father in Law",
+    "FCBHCharacter": "Father in Law"
   },
   {
     "CharacterId": "Samson\u0027s Philistine wife",
     "MaxSpeakers": 1,
     "Gender": "Female",
-    "FCBHCharacter": "Wife of Samson (female)",
+    "FCBHCharacter": "Wife of Samson (female)"
   },
   {
     "CharacterId": "Samuel",
@@ -7363,7 +7363,7 @@
     "Gender": "Male",
     "SDBH": [
       "005111001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Sanhedrin",
@@ -7418,7 +7418,7 @@
   {
     "CharacterId": "satraps",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Saul",
@@ -7436,162 +7436,162 @@
   {
     "CharacterId": "Saul\u0027s announcement",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Saul\u0027s messengers to Jesse",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Saul\u0027s servant (young)",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "YoungAdult",
+    "Age": "YoungAdult"
   },
   {
     "CharacterId": "Saul\u0027s servants",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Saul\u0027s uncle",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Uncle",
+    "FCBHCharacter": "Uncle"
   },
   {
     "CharacterId": "saying (lie about disciples stealing Jesus\u0027 body)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "saying (proverb)",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "saying (proverb) about sour grapes",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "saying about (or by) idolaters",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "saying about Anakites",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "saying about blind and lame",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "saying about captivity and death by the sword",
     "MaxSpeakers": 1,
-    "Comment": "Possibly a reference to Jeremiah 15:2, Jeremiah 43:11 or Matthew 26:52",
+    "Comment": "Possibly a reference to Jeremiah 15:2, Jeremiah 43:11 or Matthew 26:52"
   },
   {
     "CharacterId": "saying about doing anything",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "saying about food",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "saying about Gentile nations",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "saying about God\u0027s deliverance",
-    "MaxSpeakers": 2,
+    "MaxSpeakers": 2
   },
   {
     "CharacterId": "saying about going beyond what is written",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "saying about Nimrod",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "saying about Saul",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "saying about seer",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "saying about short bed and narrow blanket",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "saying about sow",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "saying about what controls you",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "saying about yeast",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "saying about Zion",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "saying, true",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "scoffers",
     "MaxSpeakers": -1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "scoffers who rule people in Jerusalem",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Scoffer",
+    "FCBHCharacter": "Scoffer"
   },
   {
     "CharacterId": "scoundrels",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Scoundrel",
+    "FCBHCharacter": "Scoundrel"
   },
   {
     "CharacterId": "scouts of Ben-Hadad, king of Aram",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "scribes",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Comment": "Gr. grammateus",
+    "Comment": "Gr. grammateus"
   },
   {
     "CharacterId": "scripture",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "sea",
     "MaxSpeakers": 1,
-    "Gender": "Neuter",
+    "Gender": "Neuter"
   },
   {
     "CharacterId": "sea captains, seafarers, sailors",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "second person to accuse Peter (man)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Seir (personified)",
@@ -7603,7 +7603,7 @@
       "007062001001000",
       "007062001002000",
       "007062001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "Sennacherib, king of Assyria",
@@ -7612,7 +7612,7 @@
     "FCBHCharacter": "Sennacherib",
     "SDBH": [
       "005116001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Seraiah",
@@ -7626,17 +7626,17 @@
       "007102001004000",
       "007103001001000",
       "007102001010000"
-    ],
+    ]
   },
   {
     "CharacterId": "seraph, one of the",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "seraphs",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Sergius Paulus, proconsul",
@@ -7650,91 +7650,91 @@
     "CharacterId": "serpent",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Comment": "Gen 3 - text uses masculine pronouns",
+    "Comment": "Gen 3 - text uses masculine pronouns"
   },
   {
     "CharacterId": "servant girl at high priest\u0027s courtyard",
     "MaxSpeakers": 1,
     "Gender": "Female",
-    "FCBHCharacter": "Woman (Servant)",
+    "FCBHCharacter": "Woman (Servant)"
   },
   {
     "CharacterId": "servant girl, another",
     "MaxSpeakers": 1,
     "Gender": "Female",
-    "FCBHCharacter": "Woman (Servant)",
+    "FCBHCharacter": "Woman (Servant)"
   },
   {
     "CharacterId": "servant of concubine\u0027s husband",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "servant of Elijah",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "servant of Naaman\u0027s wife (young girl)",
     "MaxSpeakers": 1,
     "Gender": "Female",
     "Age": "Child",
-    "FCBHCharacter": "Slave Girl (female)",
+    "FCBHCharacter": "Slave Girl (female)"
   },
   {
     "CharacterId": "servant of Nabal",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "YoungAdult",
-    "Comment": "na?ar, nah\u0027-ar; from H5287; a boy, from the age of infancy to adolescence",
+    "Comment": "na?ar, nah\u0027-ar; from H5287; a boy, from the age of infancy to adolescence"
   },
   {
     "CharacterId": "servant of priest",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "servant of Saul (and of his father Kish)",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "YoungAdult",
-    "Comment": "na?ar, nah\u0027-ar; from H5287; a boy, from the age of infancy to adolescence",
+    "Comment": "na?ar, nah\u0027-ar; from H5287; a boy, from the age of infancy to adolescence"
   },
   {
     "CharacterId": "servants of Achish, king of Gath",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "servants of David",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "servants of Eglon, king of Moab",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "servants of Isaac",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "servants of royal official (father)",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Servant",
+    "FCBHCharacter": "Servant"
   },
   {
     "CharacterId": "seven sons of Sceva",
     "MaxSpeakers": 7,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "seventy-two",
     "MaxSpeakers": 72,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Shadrach",
@@ -7743,7 +7743,7 @@
     "Comment": "original Hebrew name: Hananiah",
     "SDBH": [
       "007218001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Shalmaneser, king of Assyria",
@@ -7751,7 +7751,7 @@
     "Gender": "Male",
     "SDBH": [
       "007424001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Shaphan, secretary",
@@ -7759,12 +7759,12 @@
     "Gender": "Male",
     "SDBH": [
       "007592002001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Sharezer",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Sheba, Dedan, and the merchants of Tarshish",
@@ -7775,7 +7775,7 @@
       "007146001001000",
       "007146001003000",
       "007146001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "Sheba, son of Bicri",
@@ -7786,7 +7786,7 @@
       "007146001001000",
       "007146001003000",
       "007146001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "Shebna",
@@ -7794,7 +7794,7 @@
     "Gender": "Male",
     "SDBH": [
       "007174001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Shecaniah, son of Jehiel",
@@ -7806,7 +7806,7 @@
       "007359001003000",
       "007359001004000",
       "007359001005000"
-    ],
+    ]
   },
   {
     "CharacterId": "Shechem, son of Hamor",
@@ -7846,7 +7846,7 @@
       "007486001006000",
       "007485001012000",
       "007486001007000"
-    ],
+    ]
   },
   {
     "CharacterId": "Shemaiah, prophet",
@@ -7871,7 +7871,7 @@
       "007486001006000",
       "007485001012000",
       "007486001007000"
-    ],
+    ]
   },
   {
     "CharacterId": "Shemaiah, son of Delaiah",
@@ -7896,12 +7896,12 @@
       "007486001006000",
       "007485001012000",
       "007486001007000"
-    ],
+    ]
   },
   {
     "CharacterId": "Shemeber, king of Zeboiim",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Shephatiah",
@@ -7916,22 +7916,22 @@
       "007570001004000",
       "007570001005000",
       "007570001006000"
-    ],
+    ]
   },
   {
     "CharacterId": "shepherds at well",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Shepherd",
+    "FCBHCharacter": "Shepherd"
   },
   {
     "CharacterId": "shepherds outside Bethlehem",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Shethar-Bozenai",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Shimei",
@@ -7950,12 +7950,12 @@
       "007484001013000",
       "007484001015000",
       "007484001016000"
-    ],
+    ]
   },
   {
     "CharacterId": "Shimshai, secretary",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Shinab, king of Admah",
@@ -7963,7 +7963,7 @@
     "Gender": "Male",
     "SDBH": [
       "007518001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Shiphrah (midwife)",
@@ -7971,13 +7971,13 @@
     "Gender": "Female",
     "SDBH": [
       "007598002001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Shobi",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Comment": "son of Nahash from Rabbah of the Ammonites",
+    "Comment": "son of Nahash from Rabbah of the Ammonites"
   },
   {
     "CharacterId": "Shua (Judah\u0027s wife)",
@@ -7986,18 +7986,18 @@
     "SDBH": [
       "007253003001000",
       "007256001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Shunammite woman",
     "MaxSpeakers": 1,
     "Gender": "Female",
-    "Comment": "well-to-do",
+    "Comment": "well-to-do"
   },
   {
     "CharacterId": "sign on the cross",
     "MaxSpeakers": 1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "Silas",
@@ -8063,29 +8063,29 @@
   {
     "CharacterId": "sinful woman",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "singers",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "singers from the ends of the earth",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "singers in Judah",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "singers, and relatives",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "sinners",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Sisera",
@@ -8094,64 +8094,64 @@
     "SDBH": [
       "005053001001000",
       "005053001002000"
-    ],
+    ]
   },
   {
     "CharacterId": "sisters of beloved",
     "MaxSpeakers": -1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "slave drivers, Egyptian",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "slave girls",
     "MaxSpeakers": -1,
     "Gender": "Female",
-    "FCBHCharacter": "Slave Girl (female)",
+    "FCBHCharacter": "Slave Girl (female)"
   },
   {
     "CharacterId": "slaves of corruption",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "sluggard",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "soldier at the cross",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "soldiers",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "soldiers, Assyrian",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "soldiers, Roman",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "soldiers, some (near Jordan River)",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Adult",
+    "Age": "Adult"
   },
   {
     "CharacterId": "Solomon, king",
@@ -8169,124 +8169,124 @@
   {
     "CharacterId": "some convinced by Paul",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "some people (quoted by Paul)",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "someone",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "someone (hypothetical argument)",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "someone from Seir",
     "MaxSpeakers": 1,
-    "Gender": "PreferMale",
+    "Gender": "PreferMale"
   },
   {
     "CharacterId": "someone hiding",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "someone in crowd",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "someone in Jerusalem",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "son (child) in Israel (hypothetical)",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Child",
+    "Age": "Child"
   },
   {
     "CharacterId": "son (receiving instructions)",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "Child",
+    "Age": "Child"
   },
   {
     "CharacterId": "son of Paul\u0027s sister (young man)",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "YoungAdult",
-    "FCBHCharacter": "Child (Nephew)",
+    "FCBHCharacter": "Child (Nephew)"
   },
   {
     "CharacterId": "son of Shelomith (whose father was an Egyptian)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "son of Shunammite",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "Child",
-    "FCBHCharacter": "Boy",
+    "FCBHCharacter": "Boy"
   },
   {
     "CharacterId": "son of widow",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "song about the prostitute",
     "MaxSpeakers": 1,
     "Gender": "Either",
-    "FCBHCharacter": "Song of Prostitute",
+    "FCBHCharacter": "Song of Prostitute"
   },
   {
     "CharacterId": "song of the prostitute (female)",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "sons (hypothetical), at end of life",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Age": "Elder",
+    "Age": "Elder"
   },
   {
     "CharacterId": "sons of God",
     "MaxSpeakers": -1,
     "Gender": "Male",
     "Age": "Child",
-    "Comment": "could be spoken by any age actor, but a child\u0027s voice might provide best dramatic effect",
+    "Comment": "could be spoken by any age actor, but a child\u0027s voice might provide best dramatic effect"
   },
   {
     "CharacterId": "sons of Korah",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Son of Korah",
+    "FCBHCharacter": "Son of Korah"
   },
   {
     "CharacterId": "sons of Korah\u0027s enemies",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "sons of prophet in Bethel",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "souls of those killed for word of God",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "spies (from Pharisees and Herodians)",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Religious Leader",
+    "FCBHCharacter": "Religious Leader"
   },
   {
     "CharacterId": "Stephen",
@@ -8300,23 +8300,23 @@
     "CharacterId": "steward of Joseph\u0027s house",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Steward",
+    "FCBHCharacter": "Steward"
   },
   {
     "CharacterId": "stingy man",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "synagogue ruler",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Religious Leader",
+    "FCBHCharacter": "Religious Leader"
   },
   {
     "CharacterId": "synagogue rulers in Pisidian Antioch",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Syria",
@@ -8360,27 +8360,27 @@
     "Gender": "Male",
     "SDBH": [
       "007966001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "tax collectors",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "teacher of religious law",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "teachers of religious law",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "temple guards",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Tertius",
@@ -8408,55 +8408,55 @@
   },
   {
     "CharacterId": "those hiding from Yahweh",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "those standing near",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Comment": "accusers of Peter in courtyard",
+    "Comment": "accusers of Peter in courtyard"
   },
   {
     "CharacterId": "those standing near Paul in Sanhedrin",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "those who afflict Jerusalem",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "those who call on God",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "those who fear Yahweh",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "those who go by",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "Comment": "PSA 129:8",
+    "Comment": "PSA 129:8"
   },
   {
     "CharacterId": "those who heard",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "those who seek God",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "those with the Eleven",
     "MaxSpeakers": -1,
-    "Gender": "Either",
+    "Gender": "Either"
   },
   {
     "CharacterId": "three administrators",
     "MaxSpeakers": 3,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Timothy",
@@ -8482,7 +8482,7 @@
       "002669001001000",
       "002669001002000",
       "002669001003000"
-    ],
+    ]
   },
   {
     "CharacterId": "Toi, king of Hamath",
@@ -8490,22 +8490,22 @@
     "Gender": "Male",
     "SDBH": [
       "007878001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "townsmen of Ophrah",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "troublemakers",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "twenty-four elders",
     "MaxSpeakers": 24,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Tyre (personified)",
@@ -8520,11 +8520,11 @@
   },
   {
     "CharacterId": "unbeliever who comes under conviction",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "unbelievers",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Uriah",
@@ -8543,166 +8543,166 @@
   {
     "CharacterId": "virgin",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "voice",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "voice (God?)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "voice (Messiah?)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "voice from altar",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "voice from among living creatures",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "voice from heaven (angel?)",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Comment": "Possibly an angel (not identified)",
-    "FCBHCharacter": "Angel",
+    "FCBHCharacter": "Angel"
   },
   {
     "CharacterId": "voice from heaven (God?)",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Comment": "Possibly God speaking (not identified)",
+    "Comment": "Possibly God speaking (not identified)"
   },
   {
     "CharacterId": "voice from heaven, another",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "voice from temple",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "voice from throne",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "voice in heaven",
-    "MaxSpeakers": 13,
+    "MaxSpeakers": 13
   },
   {
     "CharacterId": "voice in heaven, loud",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "voice in reply (Isaiah?)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "voice of great crowd in heaven, loud",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "voice of great crowd, like roar of many waters, loud thunderclaps",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "voice of joy and gladness",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "voice of one calling (preparing way for Christ)",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "voice of rejoicing and salvation",
-    "MaxSpeakers": 2,
+    "MaxSpeakers": 2
   },
   {
     "CharacterId": "voices in heaven, loud",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "warriors from Zorah and Eshtaol, five",
     "MaxSpeakers": 5,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "watchman",
     "MaxSpeakers": 1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "watchmen of Israel",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Watchman",
+    "FCBHCharacter": "Watchman"
   },
   {
     "CharacterId": "waves",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "we (believers)",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "weakling",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "thing formed from clay",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "whoever has doubts",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "whole earth",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "wicked men of Gibeah",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "wicked, the",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "widow",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "widow (from company of prophets)",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "widow at Zarephath",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "wife suspected of infidelity",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "Wisdom",
@@ -8717,183 +8717,183 @@
     "CharacterId": "wise counselors of Pharaoh",
     "MaxSpeakers": -1,
     "Gender": "Male",
-    "FCBHCharacter": "Counselor of Pharaoh",
+    "FCBHCharacter": "Counselor of Pharaoh"
   },
   {
     "CharacterId": "witnesses, false",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "wives",
     "MaxSpeakers": -1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "wives and concubines of Belshazzar",
     "MaxSpeakers": -1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "wives, other",
     "MaxSpeakers": -1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "wives, still others",
     "MaxSpeakers": -1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "woman from Tekoa",
     "MaxSpeakers": 1,
     "Gender": "Female",
-    "FCBHCharacter": "Woman of Tekoa (female)",
+    "FCBHCharacter": "Woman of Tekoa (female)"
   },
   {
     "CharacterId": "woman in Bahurim",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "woman in crowd",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "woman in famine",
     "MaxSpeakers": 1,
     "Gender": "Female",
-    "FCBHCharacter": "Samarian Woman (female)",
+    "FCBHCharacter": "Samarian Woman (female)"
   },
   {
     "CharacterId": "woman medium",
     "MaxSpeakers": 1,
     "Gender": "Female",
-    "FCBHCharacter": "Woman at Endor (female)",
+    "FCBHCharacter": "Woman at Endor (female)"
   },
   {
     "CharacterId": "woman who could not straighten up",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "woman, bleeding for twelve years",
     "MaxSpeakers": 1,
     "Gender": "Female",
-    "FCBHCharacter": "Woman (Sick)",
+    "FCBHCharacter": "Woman (Sick)"
   },
   {
     "CharacterId": "woman, caught in adultery",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "woman, Samaritan",
     "MaxSpeakers": 1,
     "Gender": "Female",
-    "FCBHCharacter": "Woman (Samaritan)",
+    "FCBHCharacter": "Woman (Samaritan)"
   },
   {
     "CharacterId": "woman, wise",
     "MaxSpeakers": 1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "women of Bethlehem",
     "MaxSpeakers": -1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "women playing tambourines",
     "MaxSpeakers": -1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "women who oppress the poor (\u0022cows of Bashan\u0022)",
     "MaxSpeakers": -1,
     "Gender": "Female",
-    "FCBHCharacter": "Woman of Bashan (female)",
+    "FCBHCharacter": "Woman of Bashan (female)"
   },
   {
     "CharacterId": "women, dancing",
     "MaxSpeakers": -1,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "women, remnant of the king of Judah\u0027s house",
     "MaxSpeakers": 7,
-    "Gender": "Female",
+    "Gender": "Female"
   },
   {
     "CharacterId": "women, seven",
     "MaxSpeakers": 7,
     "Gender": "Female",
-    "FCBHCharacter": "Daughter of Zion (female)",
+    "FCBHCharacter": "Daughter of Zion (female)"
   },
   {
     "CharacterId": "worshipers",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "worshipers of the beast",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "Xerxes, king of Persia and Media (Ahasuerus)",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Ahasuerus",
+    "FCBHCharacter": "Ahasuerus"
   },
   {
     "CharacterId": "Yahweh\u0027s angel",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "Adult",
-    "Comment": "Default speaker should be Jesus (for casting to indicate a theophany)",
+    "Comment": "Default speaker should be Jesus (for casting to indicate a theophany)"
   },
   {
     "CharacterId": "you (hypothetical Gentile)",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "you (hypothetical)",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "you (old)",
     "MaxSpeakers": 1,
     "Gender": "Male",
     "Age": "Elder",
-    "FCBHCharacter": "Man (old)",
+    "FCBHCharacter": "Man (old)"
   },
   {
     "CharacterId": "you (people of Zion, restored)",
-    "MaxSpeakers": -1,
+    "MaxSpeakers": -1
   },
   {
     "CharacterId": "you ought to say",
-    "MaxSpeakers": 1,
+    "MaxSpeakers": 1
   },
   {
     "CharacterId": "young man",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "Age": "YoungAdult",
+    "Age": "YoungAdult"
   },
   {
     "CharacterId": "young men (advisors of Rehoboam)",
     "MaxSpeakers": -1,
     "Gender": "Male",
     "Age": "YoungAdult",
-    "FCBHCharacter": "Advisor (young)",
+    "FCBHCharacter": "Advisor (young)"
   },
   {
     "CharacterId": "young women (maidens)",
     "MaxSpeakers": -1,
     "Gender": "Female",
     "Age": "YoungAdult",
-    "FCBHCharacter": "Maiden (girl)",
+    "FCBHCharacter": "Maiden (girl)"
   },
   {
     "CharacterId": "Zacchaeus",
@@ -8907,7 +8907,7 @@
     "CharacterId": "Zacharias (Zechariah)",
     "MaxSpeakers": 1,
     "Gender": "Male",
-    "FCBHCharacter": "Zechariah",
+    "FCBHCharacter": "Zechariah"
   },
   {
     "CharacterId": "Zalmunna",
@@ -8915,7 +8915,7 @@
     "Gender": "Male",
     "SDBH": [
       "006212001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Zebah",
@@ -8923,7 +8923,7 @@
     "Gender": "Male",
     "SDBH": [
       "001922002001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Zebul, governor of Shechem",
@@ -8931,7 +8931,7 @@
     "Gender": "Male",
     "SDBH": [
       "001927002001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Zebulun",
@@ -9014,7 +9014,7 @@
       "006131001002000",
       "006131001003000",
       "006131001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "Zedekiah, son of Hananiah",
@@ -9025,7 +9025,7 @@
       "006131001002000",
       "006131001003000",
       "006131001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "Zedekiah, son of Kenaanah, false prophet",
@@ -9037,7 +9037,7 @@
       "006131001002000",
       "006131001003000",
       "006131001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "Zephaniah, priest",
@@ -9049,7 +9049,7 @@
       "006298001001000",
       "006298001003000",
       "006298001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "Zephaniah, prophet",
@@ -9061,7 +9061,7 @@
       "006298001001000",
       "006298001003000",
       "006298001004000"
-    ],
+    ]
   },
   {
     "CharacterId": "Zeresh, wife of Haman",
@@ -9070,7 +9070,7 @@
     "FCBHCharacter": "Wife of Haman (female)",
     "SDBH": [
       "002065001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Zerubbabel",
@@ -9089,7 +9089,7 @@
     "Gender": "Male",
     "SDBH": [
       "006179001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Zion",
@@ -9106,7 +9106,7 @@
   {
     "CharacterId": "Ziphites",
     "MaxSpeakers": -1,
-    "Gender": "Male",
+    "Gender": "Male"
   },
   {
     "CharacterId": "Zipporah, Moses\u0027 wife",
@@ -9114,7 +9114,7 @@
     "Gender": "Female",
     "SDBH": [
       "006306001001000"
-    ],
+    ]
   },
   {
     "CharacterId": "Zophar the Naamathite",
@@ -9122,6 +9122,6 @@
     "Gender": "Male",
     "SDBH": [
       "006154001001000"
-    ],
+    ]
   }
 ]
